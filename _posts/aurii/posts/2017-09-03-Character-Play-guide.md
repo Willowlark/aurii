@@ -1,7 +1,7 @@
 ---
 title: Character & Play Guide
 categories: article
-tags: aurii gm-blog
+tags: aurii aurii-blog
 excerpt: How to make a character and play the game. 
 ---
 

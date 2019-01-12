@@ -1,9 +1,9 @@
 ---
 title: Aurii Game Master Blog
-permalink: /aurii_gm/
+permalink: aurii_blog
 ---
 
-{% for post in site.tags.gm-blog %}
+{% for post in site.tags.aurii-blog %}
 * [{{ post.title }}]({{site.baseurl}}{{ post.url }}) *{{ post.date | date_to_string }}*
 > {{ post.excerpt }}
 {% endfor %}

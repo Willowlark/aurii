@@ -1,7 +1,6 @@
 ---
 title: The Realm of Aurii
 layout: aurii
-permalink: /aurii/
 ---
 
 Splash page for the Realm of Aurii play by post community. The game itself takes place over Discord, a bit of a mix of traditional play by post and chat style. New posts are made Mondays and Thursdays. 
