@@ -10,6 +10,8 @@ show_downloads: false
 collections:
   aurii_library:
     output: true
+  gm_screen:
+    output: true
 
 defaults:
   - scope:
