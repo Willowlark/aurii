@@ -22,6 +22,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
+google_analytics: UA-109921332-2
 
 pagination:
   enabled: true

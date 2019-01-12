@@ -1,7 +1,7 @@
 ---
 title: Shipping in the Realm of Aurii
 categories: article
-tags: aurii-blog aurii
+tags: aurii-blog aurii season-one
 excerpt: Not the Fedex kind.
 ---
 

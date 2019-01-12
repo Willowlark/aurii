@@ -1,7 +1,7 @@
 ---
 title: Fate Accelerated Gameplay
 categories: article
-tags: aurii aurii-blog
+tags: aurii aurii-blog season-two
 excerpt: Rewriting the rulebook 2.0
 ---
 

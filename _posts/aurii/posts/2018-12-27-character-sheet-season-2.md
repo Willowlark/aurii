@@ -1,7 +1,7 @@
 ---
 title: Aurii Seasons 2 Character Creation
 categories: article
-tags: aurii aurii-blog
+tags: aurii aurii-blog season-two
 excerpt: How to build Fate characters. Or in this case, rebuild Wushu into Fate. 
 ---
 

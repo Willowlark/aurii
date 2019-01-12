@@ -1,7 +1,7 @@
 ---
 title: Desii Manette
 categories: article
-tags: aurii desii
+tags: aurii season-one
 
 ---
 
