@@ -1,5 +1,6 @@
 ---
 title: Season 2 Drafts
+excerpt: Brainstorming for Season Two Storyline
 ---
 
 # Draft 1
