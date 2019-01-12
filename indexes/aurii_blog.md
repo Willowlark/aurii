@@ -1,6 +1,6 @@
 ---
 title: Aurii Game Master Blog
-permalink: aurii_blog
+permalink: /aurii_blog/
 ---
 
 {% for post in site.tags.aurii-blog %}
