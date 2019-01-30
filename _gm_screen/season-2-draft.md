@@ -123,7 +123,15 @@ Beings that have survived in the mist long term, long enough for the mist to tra
 5. **Twist**: The mist had awoke Lyarlel and Lylalel, and sealing it away gives the gods access to the plane once again. Lyarlel will scheme.
     - *The mist is a being with awareness, and knows of what you've done. Next time the seals break, it will truly destroy your plane.* 
     - *Dryn Wulfa was behind the whole thing, looking to use the sword's power in the war*
-    
+
+### A-1 Protect the King; Escape the Castle
+
+1. **Entrance**: The annual spring festival is being held in Laera. With the bloom of the plants comes blooms of knowledge, so to speak. Afina has been called home, surprisingly, to serve as the organizer of the party, as her Father has been wrapped up in an important study all winter. The festival takes place in the grand hall of the castle, large enough for hundreds to mingle. Her father is late to the party, but otherwise it seems to go off fine. Discussion among the guests is of the mist phenomena that has covered northern Callora. 
+2. **Puzzle**: The mist begins to seep into the room, coming through the floor cracks. A guest makes to leave, letting in a flow of mist. The bottom of the castle has already been filled. Foreign soldiers enter with it, wreathed in mist. They begin to accost party guests, making them Revenants. Guards encourage Afina and her friends to find the king, as that will be the safest place. Revenants try and hinder them as they travel the castle.
+3. **Setback**: The King's room is mostly filled with mist. He shouts for the group to stay out. He says the answer is in Lune, in it's central shrine. He warns to avoid being consumed just as he himself is, the mist entering him.
+4. **Climax**: The group now must escape the castle, as no where is safe. The first path they try is blocked by thick mist. 
+5. **Twist**: The group meets a remnant, and gain more knowledge about the mists before they lose themselves completely in the travel. They'll need to navigate following Revenants, lest they end up in deep mist. 
+
 ## B Plot
 
 ### Prologue
