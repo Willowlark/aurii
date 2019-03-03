@@ -79,7 +79,7 @@ This guide represents any setting information that is general knowledge in the g
 
 *Our-rii* 
 
-[The World of Aurii Map]({% link _posts/aurii/posts/season-one/2017-09-01-aurii-map.md %})
+[The World of Aurii Map]({% link _aurii_library/aurii-map.md %})
 
 ## Races
 
