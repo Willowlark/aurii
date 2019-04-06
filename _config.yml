@@ -12,6 +12,8 @@ collections:
     output: true
   gm_screen:
     output: true
+  aurii_world_guide:
+    output: true
 
 defaults:
   - scope:
