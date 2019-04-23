@@ -188,3 +188,74 @@ Depending on who takes the most damage in the Battle of Theanovene, **Eraia** or
 * Theanovene
 * Laera
 * Cathedral Shrine
+
+
+# Draft 3
+
+## The Party
+
+Party held to strengthen bonds in Callora. Foreign leadership in attendance to show Callorian Unity to the world. 
+
+* Dissent between the Council sects is well rumored and seen at the party. Easy to overhear whats going on.
+* Special guests tell of legends and rumors to follow as a presentation in the magic arts.
+* King Afrin gives an address, stating to 'eat well and prosper tonight' despite the Drecian war hanging over their heads.
+* Guests are seen and can be discussed with, they have actionable rumors to explore if they can find people to do it.
+* Eraia diplomat pulls Elfriede aside to ask for insider information to the Callorian Alliance, as it is 'of interest to the holy nation'.
+* A political discussion goes wrong and two dignitaries leave in a huff after being talked down by King Afrin. He'll discuss to party that 'something needs to be done, this is becoming more common'.
+* King Afrin is pulled away by soldiers, when following him party learns it's because the lead military coordinator of Laera has been captured by Dreca and Dreca has advanced close to the Callora border.
+* When King Afrin leaves, Wynnite ambassador gives a call to arms that falls on deaf ears. He is quickly disgruntled and leaves. 
+
+## Callorian Divide
+
+Missions taking place in the various sects of Callora for diplomatic purposes. Includes espionage, diplomatic representation, conflict resolution, scheming, duels. King Afrin is the NPC lead, he and his council are making every attempt they can to root out the dissention in Callora as a whole and reunite the city states. 
+
+* Torshan is colluding with Dreca, giving Dreca information on the proceedings of the Alliance discussions. Investigate the castle in Torshan, find evidence of the collusion and return without getting revealed, then use the evidence to cow them in the Alliance chamber.
+* Rocnas is committed to isolationism. Go there, find out why and convince them otherwise, and if not them their allies. Allies can be convinced by villainizing Rocnas, getting into Rocnas will reveal their leadership has changed hands and there's a new, young ruler. His regent is making the calls for him. *Boo, cheesy but whatever I can adjust later* Convince Rocanas as a whole to trust Dwyr as much as they trust themselves. 
+* Callora has basically forgotten they are the core of the Alliance in fear of being trapped between Dreca and Eraia. They need to be shown they are the same nation that formed the Alliance, via show of support from Alliance nations, show of power against Eraia/Dreca, history refresher, or outright duel. 
+* Wynne is pressuring nations to go to war, and unintentionally fear mongering. Dissuade their ambassador from doing so, underhandedly or with show of promise from other nations. 
+
+*TLDR all missions involve gaining sway with a sect. That sect can be positive or negative. Postive is harder to get, negative will come back to bite you (IE if it's discovered it causes a loss to sway). Enough sway on all sides, King Afrin convinces the nations to get their shit together.*
+
+### Front
+
+* Torshan reveals to the council that Dreca already knows about their goings on, and they should ally with them less Dreca turn on them. Dreca sends (with insider information) the perfect offer to sway other nations away from unity.
+* Callora declares they've opened borders with Eraia in an attempt to gain them as an ally, alienating other kingdoms with their actions.
+* Wynne decides to go to war without Callora, calling the Alliance cowards.
+* Rocnas declares independence from the war, no if ands or buts.
+
+**Impending Doom**: The nation of Callora splits into four sects, based on allies and plans for the war involvement. It is effectively civil war for Callora on top of the war surrounding them. *Laera probably gets outed for manipulation and attacked too*
+
+## Dreca's Advancement
+
+Missions against Dreca itself. Includes securing allies, gathering intel, target destruction/capture, commanding troops, big battles. 
+
+* Getting Wynne to sign on for a logical war, and not one of 'charge'. 
+* Getting Eraia to cooperate in plans despite them having their own mechinations, keeping Eraia from executing plans against Callora during the main plan, ensuring agreed upon spoils are given to both sides. 
+* Infiltrating camps to capture Wyverns/Officers/the camp to inform the war effort on Dreca's movements and advantages.
+* Acting on captured intel to cripple the Drecian war machine.
+* Discovery of the slavery taking place in the Kissealain territories and using it to get allies, keep laguz as allies (they'll want immediate action that's not possible), and coordinate specific missions. 
+* territory battles, difficult influenced by prior 'spec op' missions on that territories key points.
+
+*TLDR Far Cry? With political aspects from keeping Wynne and Eraia as allies and keeping the populace motivated to fight (selling the war). Take out 2-3 targets in a territory, battle for territory, rinse and repeat. Missions in the divide secure more troops for Dwyr.*
+
+### Front
+
+* Border skirmishes begin, sending panic through Rocnas and Dwyr.
+* Access to Theanovene is cut off by Drecian advancement. 
+* Public support for the war is lost in Dwyr and the military is hamstrung. (laguz abuse reveal in here probably)
+* Callorian nations make a snap decision (outside of the Divide front) based on current sway levels, cause Dreca here.
+* Open conflict at this point. 
+
+**Impending Doom**: Dreca wins the war. 
+
+## Legends
+
+Missions hunting down rumors and legends, sponsored by hopefully them being weapons to use against Dreca. Exploration, puzzles, travel.
+
+* Finding what happened to the Dragons, exploring ruins, finding Manakete, finding out. 
+* Following the legend of the sword in the mountain lakes, finding magic weapons.
+* Getting back to Elbia and exploring, finding buried ruins sections, learning new magic that's powerful or learning the secret of magic (dark magic is traditional magic, not evil). 
+
+*TLDR Probably a bad idea for a play by post*
+
+**Impending Doom:** None really. Decidely side quests. 
