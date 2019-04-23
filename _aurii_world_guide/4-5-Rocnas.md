@@ -25,9 +25,13 @@ excerpt:
 
 ### Foreign Relations
 
+* **Rocnas**:
+
 * **Callora**: 
 
+* **Torshan**: 
 
+* **Dwyr**:
 
 * **Eraia**: 
 

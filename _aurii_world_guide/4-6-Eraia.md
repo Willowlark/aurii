@@ -65,6 +65,12 @@ Eraia exports worked metal, glass, and other practical items as well as minerals
 
 * **Callora**: As the nearest neighbor of Eraia, Callora was the first nation Eraia tried to spread their religion to. While that conflicct ended in a stalemate, the tension between the nations has never relaxed. While not actively at war, every citizen of Eraia knows Callora would be the first nation in the second crusade of Eraia.
 
+* **Torshan**: 
+
+* **Dwyr**:
+
+* **Rocnas**:
+
 * **Theanovene**: Theanovene, as a city, is far too much of melting pot to meet Eraia's standards. However any ambassador of Theanovene that interacts with Eraia respects all of Eraia's many traditions and scriptures. Because of their respect for Lylalel, Theanovene is passed over by the church's judgements. It also helps that Theanovene is the only nation trading with Eraia. 
 
 * **Dreca**: Eraia is being attacked by Dreca. To Eraia, both in propoganda and reality, Dreca is a corrupted country controlled by Lyarlel. It's militaristic nature and cruel treatment of the laguz after the invasion on the main land are all actions in line with the teachings of Lyarlel. Given this, the war with Dreca is not just self defense, it's a holy crusade.

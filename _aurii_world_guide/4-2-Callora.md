@@ -5,31 +5,35 @@ excerpt: Cal-lor-ah "Legacy and Loyality"
 
 *Cal-lor-ah : Legacy and Loyality* 
 
-### Kingdoms of Callora
-
-**[Kingdoms of Callora]({% link _posts/aurii/posts/season-one/2017-9-16-kingdoms-of-callora.md  %})** The details of the individual kingdoms that make up Callora can be found here. The below information describes the alliance as a whole. 
-
-*Game Note: Callora is by nature, a little vague. If you decide you want to be the heir to a particular kingdom with X trait and Y city, throw it into Callora. If I need a quick kingdom to cause trouble, I can throw it into Callora. Anyone who wants to work within Callora's slice of the world can do so, talk to me about it when you'd like to.*
-
 ### Ruling Class
 
 **Type of Rule**: Traditional Aristocracy
 
-Callora is made up of multiple smaller Kingdoms that have their own noble families. Long ago the kingdoms came into an alliance to face a past enemy. That alliance held fast for many years, though the kingdom's kept their independence. Eventually, as other kingdoms came forth on the national stage, the Kingdom decided to formalize their kingdom as Callora. 
-
-Each kingdom in Callora is allowed to act on it's own accord, and bring a proposal to action to the other kingdoms in Callora. If three fourths of the kingdoms agree, Callora acts as a whole. If any kingdom in Callora is threatened or attacked, the other kingdoms of Callora will respond in kind. The current ruler of the kingdom represents it to the rest of Callora. How that rule is decided is left to the kingdom itself. Truly, the kingdom's only are known as Callora in times of international strife. 
+Callora is the western split of the Callorian Alliance, retaining the Alliance's name as it came from the Kingdom Callora which still resides in the territory. Three other kingdoms exist in the space Callora territory, however their kings now serve the king of Callora and this effectively makes them Dukes or the like rather than individual kingdoms. Callora has a royal family with multiple branch families and rule is passed down by birthright. Family generally determines social status, and one does not jump from class to class easily. 
 
 ### Culture & Social Classes
 
-The kingdoms vary slightly on laguz acceptance, but in general they have a neutral stance on laguz. While there's no outright segregation in the kingdoms, some kingdoms are less tolerant than others. Still, a crime is a crime so the worst Laguz usually have to put up with is insults or pranks. That said, there's currently a wave of sympathy going through the nation as laguz refugees from the southern pennisula work their way up to Callora. More people are accepting of laguz at the moment because of it, even those who have been residing in Callora all their lives. 
+Callora is the nation to change the least after the Callorian Divide. Callora is very much a traditional kingdom, thriving in a temperate climate. Their primary food source are farms maintained by the population, both animal and plant products. They have sea access and while trade with Wynne has slowed considerably, they still make fair use of the water for fishing. 
 
-Something common to all Callorian kingdoms is their symbol of alliance. Different in every kingdom these seals, objects, or crests are given to those who are vouched for by the royal family of a Callorian kingdom. Having one is enough to travel freely in Callora, and having multiple is a sign of someone whose done great service for the Alliance. Wynne's chieftain has one of each symbol; a symbolic sign of the bond between the Alliance and Wynne. It's common that royals that become close within the Alliance share their symbol of alliance, and anyone who married into a Callorian royal family will have that family's as well.
+Callora is a very tense nation at the moment. Post Divide the royal family is trying to remove the stigma against Eraia that's long existed in the country. This comes off very much like pandering to the other nation, and it's religion. Churches of Lylalel are being formed, and stories of the old war are being hidden away. The people only partially take to this, tolerance is one thing but when it comes to speaking to actual Eraians (who can now enter the country) fear or anger often takes place. It is an atmosphere of 'unwelcoming welcome' that hangs over the entirety of the nation. 
+
+Callora is the least progressive regarding women in the nations of Aurii. It is still generally expected for women to be married, about to be married, and maintaining the home and children there. There is no law against women fulfilling any role in the nation, but it is a hard road given the amount of opposition one will face. 
+
+Children are considered adult at 16. Boys will be either signed on as an apprentice somewhere, or given on a work contract to a farm. Girls are usually send to a finishing school (there are variants of such school for nobility and the peasant daughter) for a year to be considered eligible for marriage. A woman's parents don't pay a dowry if the daughter has done finishing school, per an old tradition. 
+
+Family names are important in Callora. To have one is a mark of your contribution to the the society, to not means you are meaningless in a way. 
+
+Laguz are decidedly second class in Callora. There is no open laws against them, but the mentality from Eraia is easily supplementing residual dislike of the demi humans. There is simple a silence expectation for a laguz to differ to a human. Unlike in Eraia, Callorian laguz are unwilling to accept this and fights can break out over the actions. Groups are currently forming to put laguz rights in stone before anymore of Eraia's habits transition to Callora. Callora was also very much involved in the forming of the Kissaelain territories, trying to move laguz out of sight, out of mind.
+
+Naissankari are more respected than Kissaelain due to their connection with Wynne. The fear of angering a Wynnite is stronger than any racism. 
 
 ### Military
 
-While Callora has a sizable army, (2/3rds of the Eraia) it is made up of the armies of each kingdom in the Nation. Each kingdom supplies and trains their own army. In times of war, the kingdoms in Callora join together to form a large army which works towards goals set upon by the nobles of Callora. In most historical cases, these are defensive goals. While the individual armies that make up the Callorian army are firmly allied with each other, they are trained separately and this occasionally causes miscommunications on the battlefield. In the same vein each kingdom has their own morals and culture, sometimes causing divides in the heat of battle. 
+Callora has an open enlistment military. Any man or woman can join the military and serve, at any time despite any other obligations they may have. Callora has little military might now, or particularly bodies to fill the equipment. Only members of the military may carry weapons, and they are given a weapon with the Callorian crest on it to show they are indeed military. Military roles cover basic policing as well as international despites, so it isn't too hard to find some member of the military about, possibly on a leave. 
 
-The kingdoms of Callora have between them impressive amounts of Infantry and Calvary. The kingdoms that border the sea also have small Navys, which combined is larger than the Wynne Navy. Despite the varying training methods between kingdoms the soldiers of Callora are well displined even in the combined army. Commanding officers of differing kingdoms respect each others ranks and rebuild the chain of the command as new officers arrive.  
+Callora has lots of horses, and can easily train cavalry units. It's considered a specialty of one of the nations that joined with Callora and they bring that skill to the whole. 
+
+Callora's military is rather laid back at the moment. Leadership wants it to look appealing, so many members are stationed in loose units in towns across the Kingdom, left to 'guard' the town will little instruction beyond that. This suits the self motivated, but some are using this, and the ease of enlistment, to escape debts or become 'official' ruffians rather than criminals It's not a major problem yet but the trend is rising, and self policing by other military members is proving ineffective. 
 
 ### Trade & Economy
 
@@ -41,7 +45,13 @@ Callora exports horses, mined materials, fruit and vegetables from it's farms, a
 
 * **Wynne**: Callora has long had an ally in Wynne and intends to keep them so. They find Wynne to be quirky in practice and more than a little behind the times. They respect Wynne's relationship with the wolf laguz, and respect Wynne's strength in general. Callora may be the only other nation in the world to understand how much damage Wynne could do if they left their island home. 
 
-* **Eraia**: Callora is well divided on Eraia. In the past kingdoms were allied with Eraia, and Callora has intentions of forming an ally of the nation. When Eraia turned around and attacked Callora, it provoked outrage throughout the kingdoms and war began. Now, decades after that original war, people are growing tired of the constant tension with the nation. No one knows what, but something must change.
+* **Torshan**: 
+
+* **Dwyr**:
+
+* **Rocnas**:
+
+* **Eraia**: The current king of Callora believes that despite the long time tension between Eraia and Callora, supporting Eraia against Dreca is the way to handle Dreca.      Callora is well divided on Eraia. In the past kingdoms were allied with Eraia, and Callora has intentions of forming an ally of the nation. When Eraia turned around and attacked Callora, it provoked outrage throughout the kingdoms and war began. Now, decades after that original war, people are growing tired of the constant tension with the nation. No one knows what, but something must change.
 
 * **Theanovene**: Theanovene is a trading capital and Callora is one of the primary sources of trade for them. Theanovene is very good to Callora and Callora the same. There is a health dose of professionalism in the relationship, both Theanovene and Callora know that were either to be attacked, the other would not go out of their way for them. That said both nations feel secure in their borders and openly enjoy their allied status with each other.
 

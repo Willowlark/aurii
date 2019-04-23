@@ -25,9 +25,13 @@ excerpt:
 
 ### Foreign Relations
 
+* **Wynne**:
+
 * **Callora**: 
 
+* **Dwyr**:
 
+* **Rocnas**:
 
 * **Eraia**: 
 

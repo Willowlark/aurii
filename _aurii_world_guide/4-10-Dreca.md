@@ -47,6 +47,12 @@ Dreca has one export, mined precious metals from the mountain range stretching a
 
 * **Callora & Eraia**: Callora and Eraia are the enemy to Dreca. They are the mainlanders who deny Dreca it's resources, lands, and rightful place at the top of the food chain. 
 
+* **Torshan**: 
+
+* **Dwyr**:
+
+* **Rocnas**:
+
 * **Theanovene**: Dreca has two opinions about Theanovene. The first and less important opinion is that Theanovene is also crippled in it's expansion efforts. While Theanovene has no interest in expanding beyond it's city-state, Dreca feels they must want to expand the same way they do. The second, and primary, opinion is that Theanovene is a dedicated trade city that can provide Dreca with the resources it so desperately needs. Dreca doesn't want to anger Theanovene while Theanovene will trade with them, mostly to not lose access to the resources Theanovene can provide. 
 
 ### Settlements & Places of Interest

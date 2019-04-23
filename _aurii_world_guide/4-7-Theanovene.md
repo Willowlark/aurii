@@ -41,6 +41,12 @@ Trade capital of the world, due to it's central location. Theanovene is right in
 
 * **Callora & Eraia**: The northern and southern trading partners of Theanovene. Theanovene keeps to a professional relationship with the both of them, knowing one day they may resume hostilities with each other.
 
+* **Torshan**: 
+
+* **Dwyr**:
+
+* **Rocnas**:
+
 * **Dreca**: Dreca's violent ways aren't making anyone happy in Theanovene, but a vocal few have made it clear that Theanovene is to be neutral to other countries in ever way. There's currently a push to make an amendment to the charter of Theanovene, backed by political pressure from Callora and Eraia, but it's never been done before. No one on the council wants to take the responsibility of changing the charter.
 
 ### Settlements & Places of Interest

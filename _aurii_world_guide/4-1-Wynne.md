@@ -17,13 +17,13 @@ Wynne is ruled by the man most suited for the job. There is a formal ceremony to
 
 People in Wynne are expected to work hard. They are a traditional, old fashioned country that often chooses the old ways over newer innovation simply because 'if it ain't broke, don't fit it.' 
 
-A boy in Wynne is considered an adult at the age of 14 (girls at age 16). While is understood they're still growing, they are expected to work for the betterment of their village and country or purse a trade. The latter of which is considered an investment in that person's future work, to make them even more effective down the line. Apprentices are common in Wynne for every profession as learning from an expert in a field is considere the only real way to become an expert yourself. It is rare for an adult to have multiple apprentices at a time though; it's considered arrogant. 
+A boy in Wynne is considered an adult at the age of 14 (girls at age 16). While is understood they're still growing, they are expected to work for the betterment of their village and country or purse a trade. The latter of which is considered an investment in that person's future work, to make them even more effective down the line. Apprentices are common in Wynne for every profession as learning from an expert in a field is considered the only real way to become an expert yourself. It is rare for an adult to have multiple apprentices at a time though; it's considered arrogant. 
 
 Wynne has abundant hunting due to their colder climate. Deer provide alot of the food for Wynne, supplimented with fish from the sea to the south. Wynne has few farms, between the climate and stagnate lifestyle farming doesn't appeal to Wynnites. Anything that grows in the wild is equal parts replanted by the gatherer and returned to the village. This tradition has been in place so long that much of Wynne has edible crops growing on it. 
 
 Wynne dialect is a bit gruff, called by the occasional southerner 'like they have a scratch raw throat all the time'. 
 
-In Wynne it is commonplace to challenge another when you feel they aren't doing their job correctly. This stretchs all the way up to Wynne's chieftain. 
+In Wynne it is commonplace to challenge another when you feel they aren't doing their job correctly. This stretches all the way up to Wynne's chieftain. 
 
 Despite their traditional outlook on the life, as long as the work gets done and nothing illicit occurs while doing it, Wynnites don't care about the means to the end. This allows people freedom of expression and creativity. Youth will do work in their pajamas, hunters will drink mid hunt, and chefs will take the time to cook a full meal rather than just meat and potatos. 
 
@@ -41,15 +41,21 @@ Wynne's military contains Infantry and a Navy. They also have the Pegasus Knight
 
 The Navy is more formally organized than the infantry. While not large by any means, much like everything else in Wynne hard work and skill drives each crew member to do the work of two men. In a similar vein, each ship is a force to be reckoned with on the sea. While skilled, the crews of the Wynne Navy are hamstrung by their ships. Ships are rarely built and Wynne is comfortable with it's small fleet. Many of the ships have served decades at sea and their age puts them at a disadvantage against newer ships from other nations. 
 
-Pegasi are native to the island. They have heavy coats, like clydesdales. Wynne woman (traditionally, lightly built men are starting to be seen as well) can join the Pegasus Knight corp, a powerful subset of the Military. Well trained and organized, Wynne's Pegasus Knights are a sight to behold on the battlefield, diving bombing and rescuing injured troops all without touching down. Wynne occasionally trains Callorian candidates for Pegasus Knight, and more rarely citizens of other nations. The pegasi are a Wynne treasure which they are tenative to share. It is a great honor to receive Knight training as a non Wynnian.
+Pegasi are native to the island. They have heavy coats, like clydesdales. Wynne woman (traditionally, lightly built men are starting to be seen as well) can join the Pegasus Knight corp, a powerful subset of the Military. Well trained and organized, Wynne's Pegasus Knights are a sight to behold on the battlefield, diving bombing and rescuing injured troops all without touching down. Wynne occasionally trains Callorian candidates for Pegasus Knight, and more rarely citizens of other nations. The pegasi are a Wynne treasure which they are tenative to share. It is a great honor to receive Knight training as a non Wynnian. The corps see more work in search and rescue than they do war, but they train constantly, more so than any other group in Wynne. 
 
 ### Trade & Economy
 
-Wynne's primary exports are furs, plants that only grow in the cold weather and cold water fish. Other exports of the nation include Wynne made weaponry, cold weather equipment such as snow shoes and rarely, a pegasus, given to someone whose earned the favor of the nation. Wynne usual imports are fruits and other food that won't grow in their region, as well as worked materials from other regions such as armors and naval parts. Wynne does almost all trade via sea, given they're an island nation. They trade specifically with Callora, their ally on the main land. 
+Wynne's primary exports are furs, plants that only grow in the cold weather and cold water fish. Other exports of the nation include Wynne made weaponry, cold weather equipment such as snow shoes and rarely, a pegasus, given to someone whose earned the favor of the nation. Wynne usual imports are fruits and other food that won't grow in their region, as well as worked materials from other regions such as armors and naval parts. Wynne does almost all trade via sea, given they're an island nation.
 
 ### Foreign Relations
 
-* **Callora**: Callora is an ally due to a long history of cooperation. Wynne is not always approving of some of Callora's traditions and practices (They find the aristocracy rather silly, why not have one general ruler?) but they know that Callora will come to Wynne's aid in a time of trouble as they have for years in the past. 
+* **Callora**: Callora was once the force that created the Alliance, and who brought Wynne into it. While Wynne hasn't forgetten this, Callora's allowance of Eraia in it's borders has put a strain on that respect. Wynne's leadership is torn on the recent foolish decisions made by Callora, and the legacy it once held. While channels remain open between the l
+
+* **Torshan**: 
+
+* **Dwyr**:
+
+* **Rocnas**:
 
 * **Eraia**: Wynne finds Eraia's pushing of religion both a waste of time and offensive. Eraia's expansion efforts also infringes against Wynne's way of doing things, all the more so with Eraia trying to consume Wynne's ally Callora. While unwilling to go war with them on their own, Wynne will happily jump into the fray with Callora when Callora wants to break the tension between the two.
 
