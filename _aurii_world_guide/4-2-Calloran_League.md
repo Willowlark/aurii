@@ -9,6 +9,12 @@ excerpt: Cal-lor-ah "Legacy and Loyalty"
 
 *Each heading under Callora will have a section for Callora, Torshan, Dwyr, and Rocnas. These are four city-states that take a primary role in the League politics. Each has the backing of nearby smaller city-states that align with the larger state's political viewpoint. The four groups will have some detail to each of them, rather than for two dozen smaller city-states.*
 
+## The Calloran Confederation Treaty
+
+The Calloran Confederation Treaty was signed during the first Eraian crusade. Fearing that the large crusading force would conquer each of the small kingdoms on the north half of the continent, the Kingdom of Callora send messengers to every Kingdom between Theanovene and the Eraian border. A council was held, and the King of Callora spoke passionately about how as individuals, their way of life will be stamped out by Eraia, but united, even Eraia couldn't hold against them. The kingdoms were varied and different, but each felt the same responsibility, that of defending their culture and way of life. 
+
+The Council came to a Treaty. The treaty dictated that the Kingdoms of the north would be a Confederation, a group of independent kingdoms that protect each other. No cultural restrictions were placed into the treaty, as protecting their individuality was the goal to begin with. The treaty covered military requirements by the members of the Confederacy, and some minor economic restrictions. Those who attack one member of the Confederacy, or League, attacked all members. The kingdoms were not required to play nice with one another, even being allowed to close borders to one another, but in the case of military action they must stand united. This combined show of force gave the League the ability to repel the first Crusade, and eventually end it in a ceasefire. 
+
 ## Ruling Class
 
 **Type of Rule**: Confederacy 
@@ -17,39 +23,81 @@ Callora is a union of city-states formed by the city-state of Callora during the
 
 ### Callora
 
-Callora is ruled by the original Calloran royal family that founded the league originally. The family still commands much respect from the League as a whole due to their forefathers forming the League in the first place. However, the royal family is not the same as it once was and the current generations are quite content using their legacy to command power rather than earning it themselves. 
+Callora is ruled by the original Calloran royal family that founded the league. The family still commands much respect from the League as a whole due to their forefathers forming the League in the first place. However, the royal family is not the same as it once was and the current generations are quite content using their legacy to command power rather than earning it themselves. 
 
 ### Torshan
 
-Torshan has had multiple internal revolts over the last century. The current royal family has only been in power three generations, and barely that. Torshan is a passionate nation, one easily prone to following a charismatic leader in their objectives. This volatile culture is what sparked so much revolution and while Torshan garners respect for its size and ability to keep functioning mid revolt, it's royal family has the least respect of the four nations due to it's lack of legacy. *It's commonly said that if you need evidence of the passage of time, look for the changing of the seasons or a new king in Torshan.*
+Torshan has had multiple internal revolts over the last century. The current royal family has only been in power two generations, and barely that. Torshan is a passionate nation, one easily prone to following a charismatic leader in their objectives. This volatile culture is what sparked so much revolution and while Torshan garners respect for its size and ability to keep functioning mid revolt, it's royal family has the least respect of the four nations due to it's lack of legacy. *It's commonly said that if you need evidence of the passage of time, look for the changing of the seasons or a new king in Torshan.*
 
 ### Dwyr
 
-Dwyr was originally founded by a tyrannical dictator of a man, who only passed power down to his family because of his death. His family, drunk on the power they were given on a silver platter, devolved into chaos and debacle making a revolt easy. The family that took over was a family of mages, and they brought order into the nation. This family continues to be in charge of Dwyr. Dwyr's royal family are all accomplished mages and scholars, and rule in a lawful, logical sense. The nations around Dwyr adopted some level of Dwyr's adherence to order, but in more rational degrees. However, Dwyr is always fair to it's neighbors and speaks for the whole's best interest in the League's councils, so it's neighbors don't mind the very rigid Dwyian family.
+Dwyr's royal family are all accomplished mages and scholars, and rule in a lawful, logical sense. The nations around Dwyr adopted some level of Dwyr's adherence to order, but in more rational degrees. However, Dwyr is always fair to it's neighbors and speaks for the whole's best interest in the League's councils, so it's neighbors don't mind the very rigid Dwyian family.
 
 ### Rocnas
 
 Rocnas is furthest from Callora nation and Eraia, and has always felt separate from the other areas in the League. Originally they joined the League as to not be surrounded entirely by this new nation due the southern mountains, they have always been quiet in regards to international politics. The city-states around Rocnas are heavy on farms and fishing and they are content to keep the status quo of farming and trading their crop. The royal family of Rocnas is almost as old as Callora's, and they set the conservative tone of the Rocnas region. Rocnas is more often than not non vocal on issues in the League, though for a few topics (particularly isolationism) they are quite steadfast. 
 
-## Culture & Social Classes
+## Culture & Social Classes 
 
+Children are recognized as adults at 14 for boys and 16 for girls. The League has various schools in it's different regions, and plenty of children attend them in hopes of finding a role outside farming or serving. The League has a large schooling culture, even compared to the Church of Lylalel (which is more indoctrination than schooling) and encourages study. 
 
+A married woman is always to be introduced before her husband is, and an unmarried woman is always introduced after the men in the conversation. 
+
+"Crusader" is an insult in the League; referring to someone pushy, foolish, or rude.
+
+Discussing a like for Eraia or Dreca can be a hot button depending on the region. 
+
+Laguz are treated somewhat differently in every region. Callora treats them as second hand citizens, and at this point wonders why any of them are left in the city-state after giving them the Kissaelain Territories. Torshan considers Tigers to be powerful allies, and cats useless. Cats are kicked around and often abused, while Tigers are given jobs to make use of their powerful alternate form. Dwyr is largely tolerant but is not particularly supportive of laguz issues. Rocnas considers laguz to be better than humans, and good luck. Laguz can find good work on a Rocnas farm, where life will be simple but they will be respected. 
 
 ### Callora
 
+Callora has a tendency to eat high fiber foods. Where they are located those kinds of plants and grains are more common. 
 
+Calloran royalty has a perchance for overly large dresses and showy outfits. This preference makes it's way down to the peasantry, even they tend to have more flutter in skirts and ruffles in shirts than needed.
+
+Callora is notorious hard on brothel type activities, very few manage to operate and they only do so by being incredibly secretive. The owners of the establishment are punished when they are shut down, not the workers. 
+
+One's ability to ride a horse is a sign of class and status. The better a rider, the more respect they will get. 
+
+Duels are allowed in Callora and political standing can be gained from them. However, one cannot challenge someone in a position below them. 
 
 ### Torshan
 
+Baked goods are considered delicacy in Torshan. Baking requires too many materials to do consistently. Any baked good will sell for double the price in Torshan. 
 
+Torshan is a very gesture heavy region, they like to mime as they talk. 
+
+Scars and calluses are a sign of experience in Torshan. 
+
+A child's word means nothing in Torshan. 
+
+Torshan culture encourages a lie that doesn't hurt anyone, but ridicules anyone who gets caught in the lie. It's a game of sorts, fooling someone gets you high praise and failing to makes you a laughing stock. There are many pranksters in the region. 
+
+Torshan has a surprisingly romantic courtship ritual. A man is to literally whisk his love away for the day, to bring her somewhere she's never been and wow her. Being passionate about one another is required at every step, constantly requiring the new couple to do more. It's very easy for those from the culture; they grow up seeing grand gestures of love and romance in the streets all the time. 
 
 ### Dwyr
 
+Wine is more popular than water in Dwyr. Many say it's because without the sticks in Dwians asses would kill them. 
 
+Dwyr mage academies popularized short robes, which only fall to past the knee. It's unusual to show so much leg in other areas, for men and women, but people find them comfortable and relaxing to work in. Dwyr clothing is also softer than other areas, due to the quality of make. 
+
+Dwyr has a shorthand 'sign language' many know. It was made to not interrupt mages at work chanting spells, but became common use by everyone. 
+
+Dwyr enforces a form of copyright. It's not perfect, but if you attempt to sell another's work as your own you'll be swiftly arrested and locked away. 
 
 ### Rocnas
 
+Everyone eats together in Rocnas, no matter the social class. The royals would not have food if not for the farmers, and it is tradition to give those who harvested the food first taste. 
 
+Guests are given the head of the table at a Rocnas home. 
+
+Rocnas's far eastern kingdoms are known for eccentric families, such as ones with inbreeding and others with polygamy.
+
+Mountain climbing is a popular hobby for Rocnas people. There are many legends in Rocnas revolving around the mountains to their south and children love to search for the mysteries the mountains contain. 
+
+Rocnas families often take care of their elders. The homes in Rocnas are massive, large enough to support extended families. 
+
+The northern kingdoms in Rocnas actually practice an ancestral religion like the Wynnites. They picked it up from them.
 
 ## Military
 
@@ -95,7 +143,7 @@ Dwyr is the largest source of Tomes in the world, it being their primary export.
 
 ### Rocnas
 
-Rocnas primarily exports foodstuffs, and imports newer technologies. Farm equipment, magic, etc, Rocnas tends to be behind other nations in development and chooses import over internal development. 
+Rocnas primarily exports foodstuffs, and imports newer technologies. Farm equipment, magic, etc, Rocnas tends to be behind other nations in development and chooses import over internal development. Rocnas's exports feed a large portion of the League and are highly valued.
 
 ## Foreign Relations
 
