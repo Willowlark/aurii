@@ -107,36 +107,36 @@ Rocnas primarily exports foodstuffs, and imports newer technologies. Farm equipm
 
 * **Eraia**: Callora is both terrified and curious of Eraia. Callora wants Eraia as an ally, but knows Eraia hasn't changed much from the nation that crusaded against them in the past. Callora is unsure if Eraia will want to attack them or befriend them tomorrow, and royalty is content to leave figuring it out to their children.
 
-* **Dreca**: 
+* **Dreca**: Callora considers Dreca the enemy it doesn't know. Dreca's forceful march through the lower continent scares the city-state, enough that Eraia looks friendly in comparison. Dreca doesn't acknowledge the League's independent parties and doesn't care differently for Callora than any other area. 
 
 ### Torshan
 
-* **Wynne**: 
+* **Wynne**: Torshan's support of Dreca has alienated them from Wynne. Wynne considers the states in this region traitors to the treaties set down centuries ago. Torshan has accepted the loss of Wynne, feeling it's still safer with Dreca.
 
-* **Eraia**: 
+* **Eraia**: Torshan considers Eraia the greatest enemy of the League. Eraia has tried to destroy them before and the moment they see the chance they will try again. 
 
-* **Dreca**: 
+* **Dreca**: Torshan considers Dreca a tool they can use to gain independence. By allying with the nation that seems set to conquer the mainland, they will have secured a place as an ally and not a conquered nation. They see the military might of Dreca, being southern most Calloran region, and respect Dryn Wulfa's power.
 
 ### Dwyr
 
-* **Wynne**: 
+* **Wynne**: Dwyr and Wynne maintain the traditional relationship between their nations. Wynne gets tired of Dwyr, especially the more rigid nations, but there's is mutual respect between the nations. Dwyr and Wynne mostly interact over trade, rather than personal interest.
 
-* **Eraia**: 
+* **Eraia**: Dwyr is neutral on Eraia. They acknowledge they have reason to be concerned by the theocratic empire's apparent urge to crusade, but also realize times have changed from the first crusade. Dwyr also respects light magic study as a whole, and even Lylalel's religion. Eraia has been known to send envoys for mutual study and learning to Dwyr countries via Theanovene, and value the nation's focus on magic.
 
-* **Dreca**: 
+* **Dreca**: Dwyr feels Dreca is a rash, angry nation sparked by Dryn Wulfa. Dwyr leadership respects Dryn for his tactical prowess and charisma, but fears he makes decisions poorly and is a danger to anyone around him. The fact that the nation was so easily swayed by him is a further black mark on them in the eyes of Dwyr. 
 
 ### Rocnas
 
-* **Wynne**: 
+* **Wynne**: Rocnas and Wynne maintain an amiable relationship. Rocnas being the most rustic group of the Calloran parties helps them bond with the wild Wynnite tribesmen. Wynne is not a fan of Rocnas's isolationism preference, but lets it slide as Rocnas holds up all requirements set forth by the League treaties.
 
-* **Eraia**: 
+* **Eraia**: Rocnas considers both Eraia and Dreca to be the "boogeyman". They exist but are distant enough from them they are inclined not to care about them. Rocnas was barely affected by the first Eraian crusade and this left them with the idea that they are safe in their corner of the world.
 
-* **Dreca**: 
+* **Dreca**: Rocnas considers both Eraia and Dreca to be the "boogeyman". They exist but are distant enough from them they are inclined not to care about them. Rocnas was barely affected by the first Eraian crusade and this left them with the idea that they are safe in their corner of the world.
 
 ## Settlements & Places of Interest
 
-* **E - Inans**: The capital of the kingdom Shixa.
-* **F - Etrina**: is the capital of the Kingdom the League gets it's name from, Callora.
-* **G - Airte**: The capital of the kingdom Becin.
-* **H - Rosin**: The capital of the kingdom of Nonina.
+* **E - Etrina**: is the capital of the city-state the League gets it's name from, Callora.
+* **F - Inans**: The capital of the city-state Torshan.
+* **G - Airte**: The capital of the city-state Dwyr.
+* **H - Rosin**: The capital of the city-state Rocnas.
 * **U - Laera**: The capital of the kingdomo of Laera.
