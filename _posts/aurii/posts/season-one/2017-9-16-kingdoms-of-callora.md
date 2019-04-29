@@ -4,7 +4,7 @@ categories: article
 tags: aurii season-one
 ---
 
-The following nations can be found inside the Callora Alliance. 
+The following nations can be found inside the Callora League. 
 
 <!-- TOC -->
 
@@ -13,21 +13,21 @@ The following nations can be found inside the Callora Alliance.
     - [Culture](#culture)
     - [Religion](#religion)
     - [Military](#military)
-    - [Alliance Relations](#alliance-relations)
+    - [League Relations](#League-relations)
     - [Places of Interest](#places-of-interest)
 - [Hylley](#hylley)
     - [Ruling Class](#ruling-class-1)
     - [Culture](#culture-1)
     - [Religion](#religion-1)
     - [Military](#military-1)
-    - [Alliance Relations](#alliance-relations-1)
+    - [League Relations](#League-relations-1)
     - [Places of Interest](#places-of-interest-1)
 - [Laera](#laera)
     - [Ruling Class](#ruling-class-2)
     - [Culture](#culture-2)
     - [Religion](#religion-2)
     - [Military](#military-2)
-    - [Alliance Relations](#alliance-relations-2)
+    - [League Relations](#League-relations-2)
     - [Places of Interest](#places-of-interest-2)
 
 <!-- /TOC -->
@@ -42,7 +42,7 @@ The following nations can be found inside the Callora Alliance.
 
 ### Military
 
-### Alliance Relations
+### League Relations
 
 ### Places of Interest
 
@@ -60,7 +60,7 @@ The following nations can be found inside the Callora Alliance.
 
 ### Military
 
-### Alliance Relations
+### League Relations
 
 ### Places of Interest
 
@@ -87,7 +87,7 @@ There is no official religion of Laera, though the people there have strong beli
 
 The kingdom has a military strategy called the "Militia, Money, Men" doctrine. First, there is a standing militia at all times acting for the kingdom. Second, wealthy Laeran individuals can contribute supplies and money to the militia, and in return receive admission to witnessing the Ruler's advising committee in session (The Ruler's Consult, which is considered a massive honor and learning opportunity). Thirdly, young men and women who come Laera to learn can volunteer for the emergency militia, a militia that exists only after all other resources have been depleted, and in return, receive reduced fare on university.
 
-### Alliance Relations
+### League Relations
 
 ### Places of Interest
 

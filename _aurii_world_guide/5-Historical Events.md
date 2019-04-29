@@ -5,7 +5,7 @@ excerpt:
 
 *A number in bold prefacing the event is the number of years ago. Otherwise the list is chronological, oldest first.*
 
-## Historical (Significantly in the past.)
+# Historical (Significantly in the past.)
 
 * The last dragon disappears from the world.
 * The wolf laguz princess and a Wynnite chieftain's son form a bond when they're snowed in together. This bond begins to bring the two races together.
@@ -15,7 +15,7 @@ excerpt:
 * Theanovene is formed. 
 * **89**: A natural disaster destroys the kingdom of Eblia. 
 
-## Recent
+# Recent
 
 * **10**: Dryn comes to power in Dreca.
 * **3**:  Laguz are attacked by Dreca.
@@ -29,7 +29,7 @@ excerpt:
   
   > Callora and it's neighbors, due to the proximity to Eraia, feel they should ally with Eraia and trust in the enemy of an enemy. Wynne refused to ally with Eraia, as Eraia is intolerant of their ancestor worship. Nations south of Callora by Theanovene felt the opposite, that Dreca is to be the new world power and Callora should ally with them while they are amiable to do so, and defeat their long time enemy Eraia. Wynne also refused this alliance, as Dreca's racism is intolerable. Northern central nations disagreed, still seeing Dreca as too violent to trust but also unwilling to risk with Eraia. They felt they shouldn't lose their ally in Wynne and should focus on continued, diplomatic solutions to the war. This group was seen by the others as cowardly and 'still feeling safe centrally located'. Finally the eastern countries felt the entire meeting was a waste and brought up the topic of seceding from the Alliance. They stated they would rather isolate themselves and protect their own borders first and foremost. Wynne was the first to threaten them to do it, and they rose to the challenge. After a few days, the remaining groups begrudgingly did the same as the final group; they broke off to do their own ideas. Callora was no more. 
 
-## Callora-Eraia War
+# Callora-Eraia War
 
 The Callora-Eraia conflict was effectively the first war for the continent. Eraia started by sailing to the south, conquering the much simpler nation of rabbit laguz on the south west island and expanding along the southern peninsula. Theanovene had not formed at this point.
 

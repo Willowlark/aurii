@@ -7,13 +7,13 @@ excerpt: Wyn-neh "Strength resides in the north"
 
 *Naissankari (Nai-san-ka-ri) is the traditional name of Wolf Laguz.*
 
-### Ruling Class
+## Ruling Class
 
 **Type of Rule**: Meritocracy/Kratocracy
 
 Wynne is ruled by the man most suited for the job. There is a formal ceremony to challenge the current head of state, challenging him either on his skills as a warrior or leader. It is not to the death; any man capable of winning in the first place is worth too much to the community to be killed. (Anyone found to have cheated in any formal ceremony however is put to death as a coward.) The head of state is in charge of both military and foreign affairs and he is advised by a council of elders (some of which were former leaders). Other 'upper' class ranks in Wynne are earned through proof of skill and challenges, though not directly against another person. What you provide to the country decides your rank in the country. 
 
-### Culture & Social Classes
+## Culture & Social Classes
 
 People in Wynne are expected to work hard. They are a traditional, old fashioned country that often chooses the old ways over newer innovation simply because 'if it ain't broke, don't fit it.' 
 
@@ -35,7 +35,7 @@ Wynne has a long standing relationship with the Wolf Laguz village to the north 
 
 In the modern era, wolf laguz are treated as a part of Wynne. They're long respected as powerful hunters and excellent navigators in the dark woods of northern Wynne. Wolf laguz are also accepting of the Wynnite people, though the laguz ancestral home is generally considered a off limits to humans. The origin of that unspoken law was lost to time, at least from the Wynnite side, but it is well respected. 
 
-### Military
+## Military
 
 Wynne's military contains Infantry and a Navy. They also have the Pegasus Knight corp, which is detailed below. Wynne's infantrymen are not taught how to fight, but how to fight with others. Wynne soldiers are expected to learn their fighting either before the war or on the job. The infantry has little in the way of fighting style restrictions, Wynne troops often look ragtag and unorganized. They are of course, anything but. 
 
@@ -43,13 +43,13 @@ The Navy is more formally organized than the infantry. While not large by any me
 
 Pegasi are native to the island. They have heavy coats, like clydesdales. Wynne woman (traditionally, lightly built men are starting to be seen as well) can join the Pegasus Knight corp, a powerful subset of the Military. Well trained and organized, Wynne's Pegasus Knights are a sight to behold on the battlefield, diving bombing and rescuing injured troops all without touching down. Wynne occasionally trains Callorian candidates for Pegasus Knight, and more rarely citizens of other nations. The pegasi are a Wynne treasure which they are tenative to share. It is a great honor to receive Knight training as a non Wynnian. The corps see more work in search and rescue than they do war, but they train constantly, more so than any other group in Wynne. 
 
-### Trade & Economy
+## Trade & Economy
 
 Wynne's primary exports are furs, plants that only grow in the cold weather and cold water fish. Other exports of the nation include Wynne made weaponry, cold weather equipment such as snow shoes and rarely, a pegasus, given to someone whose earned the favor of the nation. Wynne usual imports are fruits and other food that won't grow in their region, as well as worked materials from other regions such as armors and naval parts. Wynne does almost all trade via sea, given they're an island nation.
 
-### Foreign Relations
+## Foreign Relations
 
-* **Callora**: Callora was once the force that created the Alliance, and who brought Wynne into it. While Wynne hasn't forgetten this, Callora's allowance of Eraia in it's borders has put a strain on that respect. Wynne's leadership is torn on the recent foolish decisions made by Callora, and the legacy it once held. While channels remain open between the l
+* **Callora**: Callora was once the force that created the League, and who brought Wynne into it. While Wynne hasn't forgetten this, Callora's allowance of Eraia in it's borders has put a strain on that respect. Wynne's leadership is torn on the recent foolish decisions made by Callora, and the legacy it once held. While channels remain open between the l
 
 * **Torshan**: 
 
@@ -63,7 +63,7 @@ Wynne's primary exports are furs, plants that only grow in the cold weather and 
 
 * **Dreca**: Dreca, much like Eraia has an expansion policy that Wynne is against. Dreca's actions against the southern laguz also offend Wynne, as well as their overall treatment of the people and places they work through. Despite being a motivated and hard working force, Dreca is cruel and to Wynne it feels like what they could become if they slipped too far. 
 
-### Settlements & Places of Interest
+## Settlements & Places of Interest
 
 * **A - Roren**: The ancestral home of the Wolf Laguz. There only a few months in year there isn't at least a few inches of snow on the ground. The buildings and walls are all stoneworked, most decades old. The city is wholly populated by wolf laguz. There's a single road that leads through the woods into the town. 
 * **B - Coudell**: is the where the chieftain of Wynne currently resides. Characterized by wide streets and stone buildings. The cobblestone in the streets is pockmarked with missing stones that defeat the purpose of having them in the first place. Buildings get their heat and light from large fireplaces, occasionally multiple in a single home. Open air buildings are mostly unheard of.

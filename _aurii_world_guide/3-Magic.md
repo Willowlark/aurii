@@ -9,7 +9,7 @@ Hours is far too long for a mage on a the battle field to wait to throw fire at 
 
 In many ancient writings about magic the categories of magic aren't called what they are called today. Anima magic is refered to the *natural magic* or *ordered magic* and has definitions referencing that it *follows the natural order.* Dark magic is written as *elder magic*, *unordered magic*, or *unnatural magic*. Definitions for it all center around two topics, *tribute* or *defying nature*. Light magic is rarely referenced in what writings have been found. When it is referenced, it's referred to as *ordering magic* or *pure magic*. Definitions are too vague to be summarized when it comes to light magic, often what the texts refer to is something that no one can do with current light magic. Sages debate frequently on the existence of a possible fourth branch of magic that could explain this, but never come to an answer. 
 
-### Categories of Magic:
+## Categories of Magic:
 
 * **Anima**: The three primary elements, Wind, Electricity, and Fire are called the Anima elements. Other elements can be derived from these three, though it is a more advanced art. 
 * **Light**: Light magic is primarily casted by those in the clergy. Weaker than the Anima elements but more reliable, Light magic functions in the same way Anima does, yet no attempts to study it as Magecraft have yielded fruit. In fact, only a person who believe in their faith can cast a Light spell, and new spells are discovered in unearthed religious documents rather than discovered. The faith one has is not important, only that one believes in it. It's possible for a man who truly believes slaughtering men and women is right to cast light magic. Light magic is powered by unwaviering belief. 

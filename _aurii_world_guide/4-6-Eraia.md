@@ -5,7 +5,7 @@ excerpt: E-rai-ah "The Nation blessed by the Goddess"
 
 *E-rai-ah : The Nation blessed by the Goddess*
 
-### Ruling Class
+## Ruling Class
 
 **Type of Rule**: Theocractic Empire
 
@@ -13,7 +13,7 @@ Eraia is theocractical first and an empire second. Formed originally from a smal
 
 Eraia is guided by the church and the church wants to expand it's influence around the country. The pope leads the church, elected from the cardinals and bishops in power. People rise through the ranks through not so equal parts faith and impressing those above them in the church. The military is directed by bishops from the Great Cathedral.
 
-### Culture & Social Classes
+## Culture & Social Classes
 
 Eraia is a theoractic empire, a nation shaped by it's religion. From a young age citizens are introduced to the church and it's teachings and any other belief is heretical. The church has multiple sacraments it brings young children in through to educate them fully on the beliefs of the church. Children are not members of society until 16, most of their time being dedicated to the study of religion. There are frequent celebrations and events in the name of the Church, often celebrating the most recent achievement of the children.
 
@@ -29,7 +29,7 @@ Family life is important to Eraia. It is expected to be married by 25, and if yo
 
 Laguz are welcomed in Lylalel's light. The church does segregate Laguz, not allowing them to attend masses yet expecting them to hold to the scriptures as an example. However the people of Eraia are kind enough to Laguz who are willing to follow the tenants of Lylalel. They aren't equals, but they are no less deserving of Lylalel's light.
 
-### Religion: Lylalel
+## Religion: Lylalel
 
 Lylalel is portrayed as a woman in white, beautiful with golden hair and eyes as deep blue as sapphire. Her image adorns more buildings in the capital than not. Her worshippers wear white to be as pure as her image. It is believed she created the world, and that each man woman and child of Eraia are her children. She is the guardian of all who give her tribute. Her church is the only right in the world, any that would deny her words are servants of Lyarlel, her opposite. Where Lylalel is there is light, and all shadow in the world comes from her corrupt brother, Lyarlel. Lylalel is too kind, too pure to strike her brother down so she may spread her light to the world at large. Her children, the men and women of Eraia, take up this task for her. 
 
@@ -45,7 +45,7 @@ It's a common wish for a faithful servant of Lylalel to give their last prayer t
 
 It is heretical to speak of another God in Eraia. No crime, murder included, is ranked worse than slandering or promoting another God. If you aren't attacked on the spot, you'll be arrested and tried in the church. 
 
-### Military
+## Military
 
 Eraia has the largest military on the continent. As part of the church, soldiers are on a holy crusade to spread the religion of Eraia around the globe. This and frequent motivating speeches from the church leaders makes them dedicated and enthusastic about every engagement. Eraia has a fleet of ships and extensive infantry, their heavy armor troops are the best on the continent. Eraia's calvary is it's only lacking point; what horses they have are dedicated to mounted generals and paladins (armored mounted unit, a force to be reckoned with on the field.) 
 
@@ -55,11 +55,11 @@ Lyall's Lighthouse is actually a military building. Loranrowe lighthouse was bui
 
 The top of the lighthouse is not open air. It's very hard to tell from the distance a ship usually sees Loranrowe from but the light is surrounded by stained glass, depicting Lylalel's soldiers sailing out in her name. On rare nights the setting sun illuminates the panes and projects them onto a part in central Lyall. It's a beautiful sight. 
 
-### Trade & Economy
+## Trade & Economy
 
 Eraia exports worked metal, glass, and other practical items as well as minerals mined in the desert. The primary imports of Eraia are wax, furs, and foreign meats. It's trade routes aren't short, travelling south from Theanovene, across the southern pennisula, and then across the water to the capital. It would be faster for Eraia to work with Callora, but the tension between the country makes structured trade between them impossible. 
 
-### Foreign Relations
+## Foreign Relations
 
 * **Wynne**: Eraia considers Wynne to be heretical two fold, for both their ancestoral beliefs and primary diet of deer. Putting aside any differences with Callora, Eraia could never be allied with Wynne even indirectly. Wynne is currently out of sight out of mind, but that could change in time. 
 
@@ -75,7 +75,7 @@ Eraia exports worked metal, glass, and other practical items as well as minerals
 
 * **Dreca**: Eraia is being attacked by Dreca. To Eraia, both in propoganda and reality, Dreca is a corrupted country controlled by Lyarlel. It's militaristic nature and cruel treatment of the laguz after the invasion on the main land are all actions in line with the teachings of Lyarlel. Given this, the war with Dreca is not just self defense, it's a holy crusade.
 
-### Settlements & Places of Interest
+## Settlements & Places of Interest
 
 * **I - Estad**: A small Eraian town. There's a fair bit of military presence in Town, Estad was a staging point back during the war with Callora. While no where near as much as there used to be, Estad gets by as the border town between the two countries, keeping the military installments functional just in case.
 * **J - Trisp**: is a town separated out from the rest of Eraia as a form of monestary. The village consists mainly of a large church complex where light magic, Lylalel, and all things in her light are studied. The rest of the village are farmers are other tradesmen who keep the complex running smoothly. It's a quiet place that rarely gets visitors. 

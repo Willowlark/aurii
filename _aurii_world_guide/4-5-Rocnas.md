@@ -1,3 +1,4 @@
+
 ---
 title: Nation of Rocnas
 excerpt: 
@@ -5,25 +6,25 @@ excerpt:
 
 *Rock-NaS : Strength resides in the north*
 
-### Ruling Class
+## Ruling Class
 
 **Type of Rule**: 
 
 
 
-### Culture & Social Classes
+## Culture & Social Classes
 
 
 
-### Military
+## Military
 
 
 
-### Trade & Economy
+## Trade & Economy
 
 
 
-### Foreign Relations
+## Foreign Relations
 
 * **Rocnas**:
 
@@ -39,5 +40,5 @@ excerpt:
 
 * **Dreca**: 
 
-### Settlements & Places of Interest
+## Settlements & Places of Interest
 

@@ -31,7 +31,7 @@ The eastern mountain range continues to soak up all the rain due to the eastern 
 
 ## Wynnite ambassador travelling to Etrina
 
-The Wynnite ambassador Raffin Neve is traveling the country side of the Callorian Alliance on his way to Callora's capital Etrina. While the purpose of his trip is unknown none of sources from Callora report signs of trouble on the horizon. Political scribes guess that whatever business Raffin is traveling with it will not have a major effect on Theanovene trade with the nations. 
+The Wynnite ambassador Raffin Neve is traveling the country side of the Callorian League on his way to Callora's capital Etrina. While the purpose of his trip is unknown none of sources from Callora report signs of trouble on the horizon. Political scribes guess that whatever business Raffin is traveling with it will not have a major effect on Theanovene trade with the nations. 
 
 ## Theanovene caravan caught between Eraian and Drecian war parties; Who shot first?
 

@@ -3,7 +3,7 @@ title: Kingdoms Overview
 excerpt: Introduction to the various nations in control of Aurii.
 ---
 
-## International Relations
+# International Relations
 
 --         | Wynne | Callora | Eraia | Theanovene | Dreca
 -----------|-------|---------|-------|------------|-------
@@ -21,7 +21,7 @@ Key: *A: Allied; N: Neutral; T: Tension; H: Hostile*
 * **Eraia** conquered the southwestern island, it used to be it's own nation. 
 * The southern pennisula on the continent is in contention between **Eraia** and **Dreca**.  
 
-## Titles in Aurii
+# Titles in Aurii
 
 Noble             | Wynne         | Callora           | Eraia     | Theanovene     | Dreca          | Details
 ------------------|---------------|-------------------|-----------|----------------|----------------|---------------------------------

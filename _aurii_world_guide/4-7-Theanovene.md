@@ -5,13 +5,13 @@ excerpt: The-ah-no-V-ine "Neutral location; neutral stance"
 
 *The-ah-no-V-ine : Neutral location; neutral stance*
 
-### Ruling Class
+## Ruling Class
 
 **Type of Rule**: Geniocracy
 
 Theanovene is ruled by a council of Guild leaders, expert traders, and other intellectual leaders. Theanovene has a charter that was put in place at the cities founding to be neutral and trade focused. The council meets to discuss both city management issues as well as new issues. Each new issue is dealt with in the spirit of the original charter and any jumps in logic from the charter are added to the Amendments. 
 
-### Culture & Social Classes
+## Culture & Social Classes
 
 Theanovene is a melting pot of a city and the trade capital of the world. The city is controlled by a wide variety of guilds that cover pretty much every trade one can imagine. Anyone who wants to make a living as tradesmen would be wise to start off in Theanovene.
 
@@ -27,15 +27,15 @@ Theanovene is neutral to every other kingdom in the world. They insist on being 
 
 Theanovene guilds are an authority on their subject area. Guilds make most of the jobs for Theanovene and manage most of the internal affairs of the city. While signing up with one is a process, once entered the guild will back you through all sorts of trouble. 
 
-### Military
+## Military
 
 Theanovene has no military force. Members of the city sign up for a militia of sorts, one that handles internal affairs and criminal offenses but Theanovene refuses to act outside their own borders. Theanovene uses threats of trade embargo to prevent attack rather than a standing army. That said, individual residents of the city (particular Sages who have their studies in the city) are more than capable of fighting off large groups of invaders. Theanovene has many individual assests that help protect it in place of a formal military.
 
-### Trade & Economy
+## Trade & Economy
 
 Trade capital of the world, due to it's central location. Theanovene is right in the center of the only land route crossing the continent, which also serves as the hub for dozens of roads going in every direction. All roads, routes, and trails lead to Theanovene in the central continent. Theanovene trades in everything, but as far is it's own exports it exports magic and other forms of knowledge as well as exotic fruit and spices.
 
-### Foreign Relations
+## Foreign Relations
 
 * **Wynne**: Wynne is untapped potential to the council of Theanovene. That said, it's hard for Theanovene to trade with Wynne and Wynne isn't helping from their side.
 
@@ -49,6 +49,6 @@ Trade capital of the world, due to it's central location. Theanovene is right in
 
 * **Dreca**: Dreca's violent ways aren't making anyone happy in Theanovene, but a vocal few have made it clear that Theanovene is to be neutral to other countries in ever way. There's currently a push to make an amendment to the charter of Theanovene, backed by political pressure from Callora and Eraia, but it's never been done before. No one on the council wants to take the responsibility of changing the charter.
 
-### Settlements & Places of Interest
+## Settlements & Places of Interest
 
 * **N - Theanovene** The sprawling trade city itself. 

@@ -5,13 +5,13 @@ excerpt: Dre-ka "Strength in Man"
 
 *Dre-ka : Strength in Man*
 
-### Ruling Class
+## Ruling Class
 
 **Type of Rule**: Militaristic Empire
 
 Dreca is driven solely by their need to expand. With limited resources on their island, the current leader came into power with a small military group and a coup de taut against the old, peaceful leader. Now those in power are decided by the country's dictator, and the nation moves at his whim. The nation is now run by it's military, as the whole nation in a fervor for expansion and territory gain. 
 
-### Culture & Social Classes
+## Culture & Social Classes
 
 Dreca is country at the tail end of a massive change. A decade ago a man by the name of **Dryn Wulfa** exectued a coup de'tat on the government of Dreca. The old governing body was peaceful and statisfied with the small Island that made up Dreca's territory. However the people were upset, resources were declining and space was becoming limited. Dryn stood up with charisma for the sake of the people, leading the coup de'tat to change the nation and improve it the only way they could; by taking space on the continent. The last decade in Dreca has been a blur of technological and military advancements, leading up to their recent invasion of the mainland a few years ago. 
 
@@ -31,17 +31,17 @@ Dreca's occupied cities are not happy places. The cities are under martial law, 
 
 Dreca is lacking in religion. They believe only in the power of the swords they swing. This has not endeared them to Eraia. 
 
-### Military
+## Military
 
 Well equipped, well trained, but less in number than any other Nation, Dreca's army is powered by two major factors. It's fervored warmonger culture and it's wyvern riders. Dreca's wyvern riders are the primary calvary and main force of their army. Wyvern's are native to the island and are tamed by Dreca. Between dive bombing dragon claws and their mounted warriors, the wyvern riders are a nasty force of the fied. The only saving grace is they operate mostly independently on the battlefield, unable to perform complex formation without years of training like Wynne's pegasus knights have or a way to communicate in the air. 
 
 Dreca's infantrymen are skilled and savage. While not organized in a sense, Dreca's men move in a chaotic flow through the battlefield, slaying all that stands in their path. They lack large calvary presence due the limited space they had under their control at the start of the Dreca-Eraia war and have yet to build it up. Dreca has an impressive Navy, originally fishing ships converted to carry troops or cannons. That's not to say they don't have warships, Dreca has produced a large number of military seacraft in preparation for combat on the main land. These warships not only carry men, but can allow Wyvern's to land on them. 
 
-### Trade & Economy
+## Trade & Economy
 
 Dreca has one export, mined precious metals from the mountain range stretching across their island. Dreca imports almost anything, having limited resources available on their islands. All their trade routes are over the sea, being an island nation. 
 
-### Foreign Relations
+## Foreign Relations
 
 * **Wynne**: Dreca has some respect for Wynne and sees them as a potential ally. They believe like them, Wynne has limited resources and deserves a place on the mainland. If Dreca can get Wynne to understand that, they feel Wynne's warrior culture will compliment their own. 
 
@@ -55,7 +55,7 @@ Dreca has one export, mined precious metals from the mountain range stretching a
 
 * **Theanovene**: Dreca has two opinions about Theanovene. The first and less important opinion is that Theanovene is also crippled in it's expansion efforts. While Theanovene has no interest in expanding beyond it's city-state, Dreca feels they must want to expand the same way they do. The second, and primary, opinion is that Theanovene is a dedicated trade city that can provide Dreca with the resources it so desperately needs. Dreca doesn't want to anger Theanovene while Theanovene will trade with them, mostly to not lose access to the resources Theanovene can provide. 
 
-### Settlements & Places of Interest
+## Settlements & Places of Interest
 
 * **Q - Hestim**: Hestim is the only Drecian built town on the mainland. Characterized by two large towers with large openings for Wyverns to land. Hestim is a bare bones town, currently the offloading point for Drecian military assets on the mainland. There are very few non military residents in Hestim. 
 * **P - Seria**: The largest Kissaelain city before Dreca occupied it. Barely a city, the warm savannah and lack of large forests makes teracotta houses the norm. Most buildings are single story with roof access, though a few larger ones stand out against the rest. There are no paved streets, and furnishings are often sparse. When Dreca occupied it they took over what little comforts the city had for themselves, leaving the Kissaelain to scrap by with the bare minimum. 

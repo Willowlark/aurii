@@ -11,7 +11,7 @@ excerpt: Languages active and inactive in the realm.
 
 * **Wynnish**: A dead language used by the Wynne people long before they started their relationship with Callorian Kingdoms. Long words define the language and speaking Wynnish is an art form. The words are unique and seem to carry a power to them. The language fell out of use and things that didn't exist back in the time it was used have no words in Wynnish. Wynnites use the occasional word from Wynnish day to day, but as accents rather than a way of communicating. 
 
-# Glossary
+ Glossary
 
 * **Wynnite, Callorian, Eraian, Theanovian, Drecian**: The people of the respective country.
 

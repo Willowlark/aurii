@@ -1,3 +1,4 @@
+
 ---
 title: Nation of Callora
 excerpt: Cal-lor-ah "Legacy and Loyality"
@@ -5,13 +6,13 @@ excerpt: Cal-lor-ah "Legacy and Loyality"
 
 *Cal-lor-ah : Legacy and Loyality* 
 
-### Ruling Class
+## Ruling Class
 
 **Type of Rule**: Traditional Aristocracy
 
-Callora is the western split of the Callorian Alliance, retaining the Alliance's name as it came from the Kingdom Callora which still resides in the territory. Three other kingdoms exist in the space Callora territory, however their kings now serve the king of Callora and this effectively makes them Dukes or the like rather than individual kingdoms. Callora has a royal family with multiple branch families and rule is passed down by birthright. Family generally determines social status, and one does not jump from class to class easily. 
+Callora is the western split of the Callorian League, retaining the League's name as it came from the Kingdom Callora which still resides in the territory. Three other kingdoms exist in the space Callora territory, however their kings now serve the king of Callora and this effectively makes them Dukes or the like rather than individual kingdoms. Callora has a royal family with multiple branch families and rule is passed down by birthright. Family generally determines social status, and one does not jump from class to class easily. 
 
-### Culture & Social Classes
+## Culture & Social Classes
 
 Callora is the nation to change the least after the Callorian Divide. Callora is very much a traditional kingdom, thriving in a temperate climate. Their primary food source are farms maintained by the population, both animal and plant products. They have sea access and while trade with Wynne has slowed considerably, they still make fair use of the water for fishing. 
 
@@ -27,7 +28,7 @@ Laguz are decidedly second class in Callora. There is no open laws against them,
 
 Naissankari are more respected than Kissaelain due to their connection with Wynne. The fear of angering a Wynnite is stronger than any racism. 
 
-### Military
+## Military
 
 Callora has an open enlistment military. Any man or woman can join the military and serve, at any time despite any other obligations they may have. Callora has little military might now, or particularly bodies to fill the equipment. Only members of the military may carry weapons, and they are given a weapon with the Callorian crest on it to show they are indeed military. Military roles cover basic policing as well as international despites, so it isn't too hard to find some member of the military about, possibly on a leave. 
 
@@ -35,13 +36,13 @@ Callora has lots of horses, and can easily train cavalry units. It's considered 
 
 Callora's military is rather laid back at the moment. Leadership wants it to look appealing, so many members are stationed in loose units in towns across the Kingdom, left to 'guard' the town will little instruction beyond that. This suits the self motivated, but some are using this, and the ease of enlistment, to escape debts or become 'official' ruffians rather than criminals It's not a major problem yet but the trend is rising, and self policing by other military members is proving ineffective. 
 
-### Trade & Economy
+## Trade & Economy
 
 Trade is managed at the combined level for Callora. The *Tradeswind Guild* has representatives of every kingdom (usually second sons/daughters or the like) and manages prices, trade routes, embargos, and other such issues. Working for the Tradeswind Guild is a great position to be in, though frequent travel is involved. 
 
 Callora exports horses, mined materials, fruit and vegetables from it's farms, and unique creations from different kingdoms. Some kingdoms have excellent tapestries, some pottery, and so on from there. Callora imports things of value such as spice and furs from the north. Callora has sea trade routes with Wynne and land routes with Theanovene. There are old routes in place between Eraia and Callora, but they are only used by independent traders and travellers.
 
-### Foreign Relations
+## Foreign Relations
 
 * **Wynne**: Callora has long had an ally in Wynne and intends to keep them so. They find Wynne to be quirky in practice and more than a little behind the times. They respect Wynne's relationship with the wolf laguz, and respect Wynne's strength in general. Callora may be the only other nation in the world to understand how much damage Wynne could do if they left their island home. 
 
@@ -57,10 +58,10 @@ Callora exports horses, mined materials, fruit and vegetables from it's farms, a
 
 * **Dreca**: Callora is far less divided on Dreca than Eraia. Dreca's violent, militaristic march onto the continent made a terrible first impression to many kingdoms in Callora and their actions on the continent have not change that impression. Callora is paying close attention to the situation with Dreca and Eraia, to possibly make an ally of Eraia. 
 
-### Settlements & Places of Interest
+## Settlements & Places of Interest
 
 * **E - Inans**: The capital of the kingdom Shixa.
-* **F - Etrina**: is the capital of the Kingdom the alliance gets it's name from, Callora.
+* **F - Etrina**: is the capital of the Kingdom the League gets it's name from, Callora.
 * **G - Airte**: The capital of the kingdom Becin.
 * **H - Rosin**: The capital of the kingdom of Nonina.
 * **U - Laera**: The capital of the kingdomo of Laera.
