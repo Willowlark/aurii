@@ -14,6 +14,7 @@ excerpt:
 * Eraia pulls back on both fronts. An uneasy peace is formed.
 * Theanovene is formed. 
 * **89**: A natural disaster destroys the kingdom of Eblia. 
+* **29**: The Kissaelain Territories are formed and Kissaelain from across the continent move into the area for freedom.
 
 # Recent
 
