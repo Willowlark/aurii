@@ -1,7 +1,5 @@
 ---
 title: Aileas Vivani
-categories: article
-tags: aurii aurii-blog season-two
 excerpt: Totally not Aurii Related
 ---
 
