@@ -1,0 +1,13 @@
+---
+title: After The Merge
+tags: CYOA
+layout: empty
+excerpt: Planes have merged and it changed the world
+hash: MSdbLa6
+---
+
+{% for image in site.static_files %}
+    {% if image.path contains page.hash %}
+        <img src="{{ site.baseurl }}{{ image.path }}" alt="image" style="width:100%"/>
+    {% endif %}
+{% endfor %}
