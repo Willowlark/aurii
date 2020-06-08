@@ -1,13 +1,7 @@
 ---
-title: Fiends and Fire
+title: RE: Fiends and Fire
 tags: CYOA
 layout: empty
 excerpt: Stuff
 hash: vubeBxI
 ---
-
-{% for image in site.static_files %}
-    {% if image.path contains page.hash %}
-        <img src="{{ site.baseurl }}{{ image.path }}" alt="image" style="width:100%"/>
-    {% endif %}
-{% endfor %}
