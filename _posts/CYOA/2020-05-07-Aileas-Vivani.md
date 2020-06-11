@@ -4,8 +4,6 @@ excerpt: Character from the Accidental Magical Girl CYOA
 tags: CYOA
 ---
 
-# Aileas Vivani
-
 [CYOA Link](https://imgur.com/a/9YzE0)
 
 # Appearance

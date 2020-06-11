@@ -1,5 +1,5 @@
 ---
-title: CYOA Reposts
+title: CYOA
 permalink: /CYOA/
 ---
 
