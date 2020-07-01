@@ -1,6 +1,6 @@
 ---
 title: Team ASPN Blog
-permalink: aspn_blog
+permalink: /aspn_blog/
 ---
 
 {% for post in site.tags.aspn-blog %}
