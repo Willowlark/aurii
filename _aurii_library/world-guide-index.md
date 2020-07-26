@@ -39,7 +39,34 @@ excerpt: Campaign Setting
 
 --- 
 
+# Chapter 1
 {% for item in site.aurii_world_guide %}
-# [{{ item.title }}]({{site.baseurl}}{{item.url}})
+{% if item.chapter == "awg-ch-1" %}
+## [{{ item.title }}]({{site.baseurl}}{{item.url}})
 > {{ item.excerpt }}
+{% endif %}
+{% endfor %}
+
+# Chapter 2
+{% for item in site.aurii_world_guide %}
+{% if item.chapter == "awg-ch-2" %}
+## [{{ item.title }}]({{site.baseurl}}{{item.url}})
+> {{ item.excerpt }}
+{% endif %}
+{% endfor %}
+
+# Chapter 3
+{% for item in site.aurii_world_guide %}
+{% if item.chapter == "awg-ch-3" %}
+## [{{ item.title }}]({{site.baseurl}}{{item.url}})
+> {{ item.excerpt }}
+{% endif %}
+{% endfor %}
+
+# Chapter 4
+{% for item in site.aurii_world_guide %}
+{% if item.chapter == "awg-ch-4" %}
+## [{{ item.title }}]({{site.baseurl}}{{item.url}})
+> {{ item.excerpt }}
+{% endif %}
 {% endfor %}

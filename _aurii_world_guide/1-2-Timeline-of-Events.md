@@ -1,6 +1,7 @@
 ---
 title: Timeline of Aurii
 excerpt: A more visual representation of the events in Aurii's History
+chapter: awg-ch-1
 ---
 
 # Age of the Twin Gods

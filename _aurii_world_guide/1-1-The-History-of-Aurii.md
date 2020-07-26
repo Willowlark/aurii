@@ -1,6 +1,7 @@
 ---
 title: The History of Aurii
 excerpt: How Aurii came to be 
+chapter: awg-ch-1
 ---
 <!-- Chaultia -->
 

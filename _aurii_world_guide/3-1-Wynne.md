@@ -1,14 +1,14 @@
 ---
 title: Wynne
-excerpt: 
+excerpt: Strength resides in the north
+chapter: awg-ch-3
 ---
 
 *Wyn-neh : Strength resides in the north*
 
-## Key info
 
-                  |
-------------------|------------------------------
+Key Info          | 
+------------------|----------------------------------------------------------------------------------------------------------------------------
 Government Type:  | Meritocracy
 Capital City:     | Coudell
 Symbol:           | Evergreen inset to a Mountain, with a wolf sleeping at the foot of the tree
