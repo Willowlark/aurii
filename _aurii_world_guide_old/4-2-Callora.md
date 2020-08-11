@@ -52,7 +52,7 @@ Callora exports horses, mined materials, fruit and vegetables from it's farms, a
 
 * **Rocnas**:
 
-* **Eraia**: The current king of Callora believes that despite the long time tension between Eraia and Callora, supporting Eraia against Dreca is the way to handle Dreca.      Callora is well divided on Eraia. In the past kingdoms were allied with Eraia, and Callora has intentions of forming an ally of the nation. When Eraia turned around and attacked Callora, it provoked outrage throughout the kingdoms and war began. Now, decades after that original war, people are growing tired of the constant tension with the nation. No one knows what, but something must change.
+* **Eraia**: The current king of Callora believes that despite the long time tension between Eraia and Callora, supporting Eraia against Dreca is the way to handle Dreca. Callora is well divided on Eraia. In the past kingdoms were allied with Eraia, and Callora has intentions of forming an ally of the nation. When Eraia turned around and attacked Callora, it provoked outrage throughout the kingdoms and war began. Now, decades after that original war, people are growing tired of the constant tension with the nation. No one knows what, but something must change.
 
 * **Theanovene**: Theanovene is a trading capital and Callora is one of the primary sources of trade for them. Theanovene is very good to Callora and Callora the same. There is a health dose of professionalism in the relationship, both Theanovene and Callora know that were either to be attacked, the other would not go out of their way for them. That said both nations feel secure in their borders and openly enjoy their allied status with each other.
 

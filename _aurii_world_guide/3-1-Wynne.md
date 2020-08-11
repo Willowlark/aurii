@@ -104,15 +104,15 @@ Wynne's military tends to be light on leadership and high on individuality. Ever
 
 Wynne doesn't receive many visitors and Wynnites aren't used to seeing mainlanders. They're not hostile to newcomers but newcomers aren't truly welcome until they prove their worth somehow. Wynnites in general don't worry about international affairs much, content to their island home.
 
-* **Callora**: Wynnites tend to see Callorians as extravagant people who rely too much on others or people who need to stand up for themselves. Wynnites see far more of the former and find them exhausting to deal with. 
+* **Callora**: Wynnites tend to see Etrinians as extravagant people who rely too much on others or people who need to stand up for themselves. Wynnites see far more of the former and find them exhausting to deal with. 
 
 * **Torshan**: Wynnites tend to find people from Torshan as kindred spirits; Torshanian people are hard working and boisterous and Wynnite's people are hard working and somewhat wild. 
 
 * **Dwyr**: Wynnites tend to see Dwyr people as stuck up and more focused on reading than doing. 
 
-* **Eraia**: Wynne stood against Eraia with Callora in the Crusades, and still holds a grudge for the Callorian Alliance accepting peace terms with Eraia. Wynne does not trade with Eraia directly and still considers them a hostile force. Wynnites see Eraians as pushy followers who only do what the church tells them, people who don't care for individuality or the person themselves. 
+* **Eraia**: Wynne stood against Eraia with the Alliance in the Crusades, and still holds a grudge for the Honoril Alliance accepting peace terms with Eraia. Wynne does not trade with Eraia directly and still considers them a hostile force. Wynnites see Eraians as pushy followers who only do what the church tells them, people who don't care for individuality or the person themselves. 
 
-* **Theanovene**: Wynne as a nation respected Theanovene for their decision to separate from Callora when it benefitted them to. However, Wynnites see Theanovians as cowards for not having a military and enforcing neutrality within their walls since that decision. 
+* **Theanovene**: Wynne as a nation respected Theanovene for their decision to separate from the Alliance when it benefitted them to. However, Wynnites see Theanovians as cowards for not having a military and enforcing neutrality within their walls since that decision. 
 
 <!-- TODO: Move to Drecian Invasion section? -->
 <!-- * **Dreca**: Dreca, much like Eraia has an expansion policy that Wynne is against. Dreca's actions against the southern laguz also offend Wynne, as well as their overall treatment of the people and places they work through. Despite being a motivated and hard working force, Dreca is cruel and to Wynne it feels like what they could become if they slipped too far.  -->

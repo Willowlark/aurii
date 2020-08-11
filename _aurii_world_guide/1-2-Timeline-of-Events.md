@@ -40,7 +40,7 @@ chapter: awg-ch-1
 * **[21]** *[dreca]* Those wanting magic leave Eraia relucantly as they lost support of the other group; they sail south to land on the Akacie Pennisula
 * **[21]** *[eraia]* In a speech following the exodus of the rebels, the nation is named Eraia 
 * **[21]** *[kissaelain]* Eraian rebels arrive on the western shore of the pennisula
-* **[21]** *[etrina]* Helmann Sige's people start to build their nation in the center of northern Aeldun
+* **[21]** *[callora]* Helmann Sige's people start to build their nation in the center of northern Aeldun
 * **[22]** *[dreca]* The rebels are driven across the pennsiula by Kissaelain and severely weakened
 * **[22]** *[kissaelain]* Kissaelain drive the rebels away from their villages, forcing the rebels along the southern half of the pennisula
 * **[22]** *[dwyr]* Cilia Lyne's people form a kingdom in northwestern Aeldun, near some Age of the Gods ruins
@@ -50,7 +50,7 @@ chapter: awg-ch-1
 * **[50]** *[dwyr]* Cilia lays out a ruling system based around the founding families of the nation, preparing for eventual death.
 * **[57]** *[torshan]* Ardich Cowler takes over after Rousek's death 
 * **[58]** *[torshan]* Ardich is overthrown in the first Torshan Uprising 
-* **[61]** *[etrina]* After Helmann's passing, a con man takes advantage of the confused populace to become the next ruler of the new kingdom. He names the kingdom Etrina after himself
+* **[61]** *[callora]* After Helmann's passing, a con man takes advantage of the confused populace to become the next ruler of the new kingdom. He names the kingdom Callora after himself
 * **[63]** *[ferre]* Lithis reaches max population and begins to limit the number of children born each year
 * **[70]** *[wynne]* An aspiring Wynnite Chieftain and the daughter of the Naissankari chief are trapped together in a valley. They fall in love and are the first bridge between Wynne and the Naissankari
 * **[70]** *[wynne]* The Naissankari and Wynnite people mix cultures and the Naissankari are counted as Wynnite for all intents and purposes.
@@ -73,26 +73,27 @@ chapter: awg-ch-1
 * **[118]** *[ferre]* Ferre refuses Eraia who then invade with their full army that night, going down as the Night of Broken Burrows. Ferre is completely defeated by Eraia
 * **[119]** *[kissaelain]* Eraia arrives on the western shores and begins building the fort city Ebonary
 * **[119]** *[kissaelain]* Eraia sends soldiers on a mission around the territories looking to convert the villages to the Church of Lylalel, none accept
-* **[119]** *[kissaelain]* A group of traders from Etrina make contact with the Kissaelain and are the first outsiders welcomed by the Kissaelain 
+* **[119]** *[kissaelain]* A group of traders from Callora make contact with the Kissaelain and are the first outsiders welcomed by the Kissaelain 
 * **[119]** *[kissaelain]* Eraians marched on the territories from Ebonary, occupying every Kissaelain village
-* **[119]** *[kissaelain]* The traders from Etrina flee the territories and bring news of the crusades to Etrina
-* **[119]** *[eraia]* Eraia sends a force north of Lyall to march on Dwyr and Etrina. Ninica of Dwyr was damaged before Eraia was forced to pull back
-* **[119]** *[etrina]* King Callor Etrina calls a council of Torshan, Dwyr and his own leadership to discuss the assault by Eraia
-* **[119]** *[etrina]* The Callorian Alliance is formed by the three nations, sharing military power while respecting one another's autonomity. 
+* **[119]** *[kissaelain]* The traders from Callora flee the territories and bring news of the crusades to Callora
+* **[119]** *[eraia]* Eraia sends a force north of Lyall to march on Dwyr and Callora. Ninica of Dwyr was damaged before Eraia was forced to pull back
+* **[119]** *[callora]* King Callor Callora calls a council of Torshan, Dwyr and his own leadership to discuss the assault by Eraia
+* **[119]** *[callora]* The Alliance is formed by the three nations, sharing military power while respecting one another's autonomity. 
 * **[119]** *[torshan]* Torshan send a representitve to Wynne asking for their assistance in the war. Wynne agrees
-* **[120]** *[etrina]* the city of Theanovene is half occupied by advancing Eraian forces before Wynnite reinforcements helped the Torshan and Etrinian forces push them out, battle known as the Siege of Theanovene
-* **[120]** *[etrina]* Anwood is nearly destroyed on the western front, Eraian forces push towards Ninica and further into Etrina
+* **[120]** *[callora]* the city of Theanovene is half occupied by advancing Eraian forces before Wynnite reinforcements helped the Torshan and Callorian forces push them out, battle known as the Siege of Theanovene
+* **[120]** *[callora]* Anwood is nearly destroyed on the western front, Eraian forces push towards Ninica and further into Callora
 * **[120]** *[dwyr]* Dwyr researchers discover anima magic and weaponize rituals the same way Eraia has
 * **[120]** *[dwyr]* Dwyr uses anima magic to push Eraia from Ninica again
 * **[120]** *[eraia]* Eraia, realizing they no longer have military superiority, send messengers to discuss a ceasefire. A summit is held in Theanovene
-* **[120]** *[eraia]* Rainaut Diase brings terms of ceasefire which Callora is willing to accept. Wynne advises Eraia should be fought here and now.
+* **[120]** *[eraia]* Rainaut Diase brings terms of ceasefire which the Honoril Alliance is willing to accept. Wynne advises Eraia should be fought here and now.
 * **[120]** *[theanovene]* Theanovene's leader Folquin Rauda declares Theanovene will become a neutral city not attached to any nation as part of the ceasefire. This is accepted by all parties
-* **[120]** *[ww]* The Aeldun Accords are signed and the Eraian Crusades end. Callora remains unified via the Alliance Treaty
+* **[120]** *[ww]* The Aeldun Accords are signed and the Eraian Crusades end. The Honoril Alliance remains unified via the Alliance Treaty
 
 # [120] Theanovenian Renaissance
 
 * **[121]** *[theanovene]* Theanovene writes and signs the Theanovene charter, giving control of the city to each of the guilds in the city
-* **[130]** *[theanovene]* The first Thenaovene College of Magic is formed, bring knowledge of Anima and Light Magic to Eraia and Callora respectively; as well as the rest of the world 
+* **[129]** *[kissaelain]* Eraia returns Kissaelain lands to Kissaelain control due to low moral of occupying forces, Kissaelain resistance, and lack of benefits to occupying the Territories
+* **[130]** *[theanovene]* The first Thenaovene College of Magic is formed, bring knowledge of Anima and Light Magic to Eraia and the Alliance respectively; as well as the rest of the world 
 * **[136]** *[dwyr]* Tomes are discovered in Dwyr's College of Magic, the knowledge spreads around.
 * **[140]** *[dreca]* Dryn Wulfa performs a coup de'tat against the Haland leadership and turns Dreca into a dictatorship under military rule. 
 * **[141]** *[dreca]* Dreca begins drastically increasing it's military power, Dryn leading the nation to take Aeldun from the mainlands

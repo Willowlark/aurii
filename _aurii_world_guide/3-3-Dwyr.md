@@ -4,32 +4,79 @@ excerpt:
 chapter: awg-ch-3
 ---
 
-## Key info
+//motto
 
-   | 
----|---
-Government Type: | 
-Capital City: | 
-Hallmarks:  | 
 
-General country description
+Key Info          | 
+------------------|----------------------------------------------------------------------------------------------------------------------------
+Government Type:  | 
+Capital City:     | 
+Symbol:           | 
+Primary Religion: | 
+Hallmarks:        | 
 
-//Ruling class
+//location and climate
 
-//Education
+//origin
 
-## Three Things You Should Know
+//religion
 
-// Parts of Culture
+//laguz presence 
+
+//government
+
+//what towns look/feel/smell like
+
+//clothing 
+
+<!-- ## Interesting Things in 
+
+*  -->
 
 ## Traits for Characters from the Nation
 
-## //Culture
+## Culture
 
-## //Military
 
-## //Economy
+//work, jobs, days off, common professions
+
+//food
+
+//coming of age, education, how is history preserved 
+
+//magic
+
+//how is crime punished
+
+//important traits, things with cultural significance 
+
+## Military
+
+⭕🔴
+
+Unit             | Skill Level | Size
+-----------------|-------------|-----
+Infantry:        | ⭕⭕⭕⭕⭕ | 
+Cavalry:         | ⭕⭕⭕⭕⭕ | 
+Magic Forces:    | ⭕⭕⭕⭕⭕ | 
+Navy:            | ⭕⭕⭕⭕⭕ | 
+
+//speciality units (add to table)
+
+//leadership style
 
 ## Cities and Sites
 
-## //Foreign Relations
+
+
+## Foreign Relations
+
+//general 
+
+// This nation's people tends to see X people as...
+* **Callora**: 
+* **Torshan**: 
+* **Dwyr**: 
+* **Eraia**:
+* **Theanovene**: 
+<!-- * **Dreca**: -->
