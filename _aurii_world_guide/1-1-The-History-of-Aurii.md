@@ -133,7 +133,7 @@ The capital city Rosin grew large and impressive, full of people who enjoyed to 
 
 ### Dwyr 
 
-Those who followed Cilia to the northwest found themselves wandering almost aimlessesly for months. Cilia informed them, time and time again, that the right place to settle would appear. They simply had to look closely. Finally, Cilia found her place. A ruin, left behind from before Lylalel's Light era, was nestled in the northern most mountains of Aeldun, the *Anolf Mountains*. This ruin contained remnants of the language of the gods, and Cilia declared this as the best place for her people to settle. Reading a random word from the ruins, she named the settlement Dwyr.
+Those who followed Cilia to the northwest found themselves wandering almost aimlessesly for months. Cilia informed them, time and time again, that the right place to settle would appear. They simply had to look closely. Finally, Cilia found her place. A ruin, left behind from before Lylalel's Light era, was nestled in the northern most mountains of Aeldun, the *Cahyrst Mountainss*. This ruin contained remnants of the language of the gods, and Cilia declared this as the best place for her people to settle. Reading a random word from the ruins, she named the settlement Dwyr.
 
 Dwyr built up slowly but steadly. Cilia oversaw every building, every farm that was built with a grand plan only she knew. She set up a council of founding families, and governed as a member of the council. While she had the support to do whatever she wished with the blessing of the Dwyr people, she insisted that all procedure go through the council, on which she held an equal vote to all other members. She knew setting the precedence would keep the people of Dwyr following the structure she was building for them.
 
@@ -159,8 +159,7 @@ This was the beginning of Torshan's incredible royal turnover rate. Torshan neve
 
 Lifhilda was a beautiful woman, one who passed for a 'proper' noble like those from Callora. She was also one of the most foul mouthed, wild children Torshan had ever produced. She held her reign as long as she did for a chance action she took, sending a ship north to see what could be found. What the ship found was Wynne, and Lifhilda ended up sailing out herself to meet with Wynne's chieftain. It was Lifhilda, wild child, who formed the first alliance with the Wynne people. Trade via sea boomed, though people rarely traveled between the two nations for leisure. 
 
-Torshan grew into a walled capital, packed to the brim with people and buildings. A port city was built to facilitate trade, and a far amount of ships to go with it. Torshan became the primary exporter of stone, gems, and other mined materials for Callora and Dwyr both, cementing their role in what would be the The Honoril Alliance. 
-
+Torshan grew into a thriving capital, packed to the brim with people and buildings. A port city was built to facilitate trade, and a far amount of ships to go with it. Torshan became the primary exporter of stone, gems, and other mined materials for Callora and Dwyr both, cementing their role in what would be the The Honoril Alliance. 
 
 ## Kissaelain Territories
 

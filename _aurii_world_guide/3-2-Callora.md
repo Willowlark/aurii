@@ -4,21 +4,21 @@ excerpt:
 chapter: awg-ch-3
 ---
 
-//motto
+*Cal-lor-ah : By the Crown, for the Crown* 
 
 Key Info          | 
 ------------------|----------------------------------------------------------------------------------------------------------------------------
 Government Type:  | Monarchy (Callora Family Line)
 Capital City:     | Rosin
-Symbol:           | Three gold coins, as if they were falling out of a hand
-Primary Religion: | 
-Hallmarks:        | 
+Symbol:           | Three gold coins, as if they were falling out of a hand. Each coin has a crown emblem on it. 
+Primary Religion: | Ylthar
+Hallmarks:        | Big farms, busy streets, hard working down to earth people, classy areas, old buildings, gaudy nobles, the ever present royal family. 
 
 Callora is the central kingdom in the *Honoril Alliance*, containing large grassy plains and lush forests. Callorian territory is generally accepted as follows. The western boarder is *Cahyrst Mountains* and the eastern border the road leading south from *Caford* to *Theanovene*. The southern border in the west is *Loecan Pass* which it shares with *Eraia*. Callorian territory on the eastern side of the *Llanfyll mountains* ends just before Theanovene. Callora is located in a temperate climate, though winters tend to be slightly worse than summers. Callora's forests are deciduous and the leaves fall from the trees every winter, leaving the forest eerie and barren.
 
 Callora came to be when a large group of people left the city that would become the capital of Eraia, *Lyall*, due to the Church's oppressive influence on the city. That group split into three smaller groups, the one lead by *Helmann Sige* forming the town of Rosin. Helmann died a bachelor and a con artist by the name of *Avir Callora* took hold of the town. While Avir was lazy, his people were not, expanding Rosin into a city of it's own and soon into other towns as well. Avir left the Kingdom in the hands of his first born son and this started the Monarchy in Callora. 
 
-//religion
+Callorians have a harvest god they worship. Religion doesn't play a large part in Callorian culture, but the religion of Ylthar formed around the lower classes wishes for good harvest in early days of the Kingdom. The name for the god they were asking help from wasn't important, they simply prayed. Over time the god took on the form of a shirtless man with flowing long hair and brown pants, holding a sickle in one hand and a bushel of apples in another. (The royal family has documentation that suggests early Callorian royalty encouraged the creation of this god.) Ylthar blesses harvests and protects the working class. The nobility don't tend to worship him heavily, instead more likely to use his name as a swear than anything else. 
 
 Laguz are seen as second class citizens in Callora, particularly by the upper class. No laguz are native to northern Aeldun and the first experience Callorians had with them was with Kissaelain refugees from the Eraian Crusades. These refugees left an impression that laguz (Naissankari and Kouneli as well, despite only Kissaelain entering the Kingdom) were plains savages, dirty and with little to their name. Despite some Kissaelain and even a handful of Naissankari settling and living in Callora, the upper class continues to believe laguz are nothing more than animals. The lower class is less aggressive to laguz than the upper one, but still would choose another human over a laguz. 
 
@@ -35,6 +35,22 @@ Clothing choices in Callora also varies by class. for the lower class simple woo
 *  -->
 
 ## Traits for Characters from the Nation
+
+**Nobles:**
+
+* Trend focused
+* Socially aware
+* Polite 
+* Scheming 
+* Gaudy
+
+**Lower Class:**
+
+* Hard working
+* down to earth
+* Community focused
+* Ignorant of high ranking politics
+* Simple
 
 ## Culture
 
@@ -54,23 +70,31 @@ Knights are mostly independent, seniority and experience being the only ranking 
 
 The Knights of Callora have a code of conduct they follow. They do indeed serve the Callorian royal family to the last, and unofficially the nobility (particularly the one paying the knight's bills) as well. They serve the kingdom, expected to right crime when it is found and serve as a role model for all people's. They are to be peerless warriors, able to be called to defend against invaders at a moment's notice. Much like the nobility, other knights tend to keep the knights generally on the same page. Older knights enforce the code on younger ones, and by the time the younger knights are mentoring the next generation the values are well ingrained in them. 
 
-// lower class
+The peasantry of Callora live detached from the whirlwind of trends and intrigue that plague the upper class. In fact, the peasantry actively avoid it as much as possible. The lower class take their mentality after Helmann Sige, not Avir Callora. Many of the lower class people in Callora are content to get by, supporting the noble whose land they live on and making a comfortable life for them and their family. Any who truly feel like social climbing must do so as a knight, a concept that turns plenty off from the idea. 
 
-//work, jobs, days off, common professions
+Nobles are usually far too preoccupied with their games and events to deal with day to day matters on their lands, so the people living on a given nobles land will frequently elect a sort of mayor who can manage the interactions with noble and any peacekeeping needs. The title is informal and only to make everyone's life easier, so the position is more of a civil servant than a leader. That said, the 'mayor' is given a salary by everyone in the noble's lands for their work, meaning the mayor doesn't have to hold down another job at the same time. 
+
+The lower class work a variety of labor jobs. The highest majority of lower class workers are farmers, either livestock or tending fields. Other positions for a Callorian could be working in processing of foodstuffs (butchers, granaries), woodworking, smelting, glass blowing, and other crafting professions, cooking, bar tending, and various other professions. There is a wide variety of roles a Callorian can perform, though every role tends to either create something or serve someone. If someone shows true talent for the arts, be it sculpting, culinary work, or clothing design it's normal for that person to be elevated to the top of the lower class pecking order. The artisan will have much more pull with the noble controlling the lands they live on, provided they continue producing new work for the noble to boast about. It's entirely possible for the artisan to fall out of favor with a noble, but clever ones convince another noble to take them in based on their earlier works. 
+
+Most craftwork jobs take place in the city itself, but one notable exception is gristmill work. A smattering of windmills dot Callora's farm lands and they grind wheat with wind. 
+
+The lower class doesn't have a set day of rest, most workers are given two days off a week but they're different for every family unit, and rarely back to back. 
+
+Despite being the 'lower class', Callorians tend to get along swimmingly. Each Callorian city bustles with activity in the evenings, children playing and adults frequenting taverns. Callorians have a strong sense of community and everyone knows everyone in the area. Callorians don't put too much stock on whose land someone lives on; having a Lord is expected and it has no more impact than a landlord. There's little in the way of parks and recreation in the lower class areas so children get everywhere, on roofs and walls, in back alleys, and so on.
+
+There's speculation with how easy going the citizenry is of Callora, an invading force would be accepted immediately. There's a fair dose of national pride in the common folk, but they're used to a group over their heads and don't stress it too much. 
+
+A Callorian can leave their family home as early as 14. When moving, the first step is to find a place that will allow you to work. Once you have a potential job lined up, the noble owning the land the job is on (or more likely, a book keeper for him) can be contacted to find a place to live. Especially when moving to a new Noble's territory, this isn't a choice and the new tenant will be assigned a location. Having prior experience in a field that's in demand in the new territory, such as being an expert baker, can offset this. Over time, a Callorian can move into different areas within the same territory for more space or better location, if a place opens up. 'Ownership' of businesses such as taverns and workshops is more being the manager than owning. If one wants to 'own' a tavern, they must work at a tavern and be appointed to be take over by the old 'owner' when they move on from the position. 
 
 Callora is an agricultural hub for much of Aurii. Callora has more farmland than any other nation and grows anything they can. Vegetables and fruit are abundant and available, as is wheat. Hunted and gathered food stuffs such as berries, mushrooms, and non livestock animal meat are far rarer (and of course, always in style for the nobility). Callora has many beef, chicken, and pork farms which make up much of the meat choices for the standard Callorian. Beer was first brewed in Callora, and there's an annual festival celebrating it.
 
-//Callora farms have windmills?
+Education is managed by the royal family itself, usually by a second or third prince. The royal family works with Dwyr on ensuring schooling covers the latest in skills so that the lower class don't fall behind the rest of the world. This, like many other royal family programs, stays quiet in regards to the rest of the nobility. Mandatory education ends at age 14 and is given to both genders. There are two continued education paths in Callorian, both particular restrictions. A finishing school exists in each Callorian city for girls both common and noble (though often the nobility have their own finishing school as well), which is a two year curriculum on being a proper lady. The second option are colleges which available only to the nobility, unless a noble so chooses to sponsor a gifted Callorian from their territory, which is allowed but comes with heavy stigma against the sponsored person. Callora has a few different colleges, the majority leaning towards the arts. 
 
-//food
+An exception to the two continued paths is being found magically talented. Anyone with magic talent is trained for four years (age 14-18) at the Magicians Academy in Rosin. The royal family sponsors this school to encourage more people in the nation to embrace magic, and increase their own magical talent. The Magicians Academy has a few teachers from Dwyr and communicates with the Dwyr universities, keeping it mostly up to date on current magic study. Coincidentally, the fail out rate is fairly high.  Graduates are offered a position in the Crown Magicians if they wish to use their talents for combat, or can work for the Academy producing tomes, instructing, and generally making use of their talents. The royal family is very good to those who work for the Academy, and much like becoming a knight it can really improve quality of life. Many graduates from out of Rosin do return home, making use of their abilities to garner favor with local lords closer to home. 
 
-//coming of age, education, how is history preserved 
+Due to the kingdom neighboring Dwyr, Callorians have been familiar with magic since early in it's adoption. Lower class Callorians saw little use for magic, and didn't take too much interest in the craft. The nobility was unwilling to invest the time away from their busy social lives to study the art. For a good while, the only magic one might see in Callora was a mage using their craft for parlor tricks and attention. Since the formation of the Magician's Academy, the occasional healer or magician graduate might be found in a Callorian city but magic arts aren't terribly common. However, due to the royal family's sponsorship and acceptance of the Academy, magic is accept as normal in the kingdom. 
 
-//magic
-
-//how is crime punished
-
-//important traits, things with cultural significance 
+Callora's military has bases in each city, and the soldiers there are expected to serve as the police force for the city. The military reports to the royal family, not the nobility, and enforce the rules of the crown on both classes. Jails on are maintained on base, and for most crimes there is a set punishment in place by the crown. For any crime that needs further deliberation, such as pre meditated murder or other extreme crimes, the criminal is brought to the Castle in Rosin to be judged by the King. The King has sole judgement on the punishment, ranging from banishment, indentured servitude, or even death. 
 
 ## Military
 
@@ -91,20 +115,27 @@ Callora has a magic college in Rosin which has produced the Crown Magicians, a s
 
 Callora's Navy exists mostly to defend fishing ships and trade routes from pirates. During the Crusades there was a large push to increase the Navy, as Eraian ships sailing around to the northern shores of Callora were the only way Callora could be directly attacked. Most of these ships didn't see action, the Crusades being mostly fought on land, and now Callora has a surplus of combat ships available for use. This has worked out well in regards to the Alliance, both Dwyr and Torshan rely on the Callorian Navy for protection of their own ships. 
 
-//leadership style
-
 ## Cities and Sites
 
+* **Rosin**: The capital city of Callora. Rosin is built expanding out in a circle from the Royal Castle. It has the largest upper class district of the Callorian cities. It's home to the Magician's Academy, located very close to the castle. Rosin's upper class is very active, always doing their best to impress the Crown. 
 
+* **Caford**: The second city formed in Callora. Originally starting as a port town, the port serves as a mid point between upper and lower class districts. Caford is more packed in that Rosin, though not to the point of overcrowding the population. Dock work makes for a good career in the lower class. The noble maintaining the dock district is the defacto head of the social circles of Caford. 
+
+* **Hylley**: A smaller town nestled in the Llynfall Mountains. Hylley is characterized by a river that comes down the mountain side and into town, there are many stone bridges forming walkways across this river as it breaks apart inside city limits. Hylley has a smaller number of nobles than the northern cities, and tends to be fairly peaceful. It's more spread out than Rosin, and lends itself to frequent festivals. 
+
+* **Anwood**: A town formed on the western edge of Callorian territory. During the Crusades, Anwood suffered damage from Eraia invaders. As the town was rebuilt, an emphasis on military made it's way into the redesign. There's a western wall to Anwood and there are multiple military bases throughout the city. More knights live in Anwood than anywhere else. Due to the damage, Anwood is the smallest of the Callorian cities and has the fewest nobles. Anwood has a larger portion of farms than the other cities. 
 
 ## Foreign Relations
 
-//general 
+Callora sees many people from out of Kingdom, particularly from Dwyr and Torshan. Theanovians often visit as well, and Eraian/Wynnite visitors are far rarer. The crown has no policy against travel in and out of the Kingdom, though the border shared with Eraia is heavily policed and typically closed to travel. Eraians looking to enter Callora must do so via Theanovene. 
 
-// This nation's people tends to see X people as...
-* **Callora**: 
-* **Torshan**: 
-* **Dwyr**: 
-* **Eraia**:
-* **Theanovene**: 
+* **Wynne**: The nobility tend to think of the Wynnites as wild people. They're novel and interesting, but not someone you want to invite for dinner. Wynnites also carry a reputation of being dirty and rude. The lower class see Wynnites as experts in hunting and gather and people who live freely. There's some admiration that comes from that, but Wynnites also live a chaotic life to the typical lower class Callorian, not one to be envied.
+
+* **Dwyr**: The nobility appreciate Dwyrian intellect and poise. While never the life of a party, Dwyr guests can always be counted on to act appropriately. Having friends from Dwyr is a show of intellect between nobles. The lower class find Dwyr to be particularly stuff nobles. While the education level isn't bad in the lower classes, Dwyrians who do visit Callora don't tend to get along with the simple life style the lower class enjoys. 
+
+* **Torshan**: The nobility tend to think of Torshonians as wild ruffians who exist to overthrow things. Torshan's cycling leadership and chaotic, down to earth life style is the anti thesis of all nobles. The lower class find Torshonians to be excitable neighbors who always throw a great party. Torshonians often get drinks bought for them in a tavern in return for stories and good cheer. Torshonians are often sought out by new craftsmen looking to learn from the very best as well.
+
+* **Eraia**: Both the nobility and lower class have not forgotten the threat of the crusades. Eraia is a mysterious being, a group of people who want to force their ideals on the nation. In person, Eraians tend to be treated with mistrust and disdain. Talk of Lylalel is a quick way to get thrown out of a building. 
+
+* **Theanovene**: The nobility has a love hate relationship with Theanovene. Theanovene provides them endless new goods and things to brag about, but there is always a small voice that reminds them that Theanovene broke ties with the Royal Family. (The royal family has long given Theanovene it's blessing.) Generally Theanovians are seen as welcome and almost part of the Alliance. This is entirely true for the lower class who have no bones to pick with Theanovians. 
 <!-- * **Dreca**: -->

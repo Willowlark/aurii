@@ -106,9 +106,9 @@ Wynne doesn't receive many visitors and Wynnites aren't used to seeing mainlande
 
 * **Callora**: Wynnites tend to see Etrinians as extravagant people who rely too much on others or people who need to stand up for themselves. Wynnites see far more of the former and find them exhausting to deal with. 
 
-* **Torshan**: Wynnites tend to find people from Torshan as kindred spirits; Torshanian people are hard working and boisterous and Wynnite's people are hard working and somewhat wild. 
-
 * **Dwyr**: Wynnites tend to see Dwyr people as stuck up and more focused on reading than doing. 
+
+* **Torshan**: Wynnites tend to find people from Torshan as kindred spirits; Torshonian people are hard working and boisterous and Wynnite's people are hard working and somewhat wild. 
 
 * **Eraia**: Wynne stood against Eraia with the Alliance in the Crusades, and still holds a grudge for the Honoril Alliance accepting peace terms with Eraia. Wynne does not trade with Eraia directly and still considers them a hostile force. Wynnites see Eraians as pushy followers who only do what the church tells them, people who don't care for individuality or the person themselves. 
 
