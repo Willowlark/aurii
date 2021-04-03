@@ -68,7 +68,7 @@
  /*---------------------------------------------------------------------------*/
  
  /*------ Headings: change background and padding ----------------------------*/
- h1, h2, h3, h4, h5, h6 {
+ h1:not(:first-child), h2, h3, h4, h5, h6 {
     background-color: var(--heading-bgcolor);
     padding-top:      .4em;
     padding-left:     .4em;
@@ -87,7 +87,7 @@
  h5 { counter-reset: h6counter; }
  h6 {}
  
- h1:before {
+ h1:not(:first-child):before {
      counter-increment: h1counter;
      content: counter(h1counter) ".\0000a0\0000a0";
  }

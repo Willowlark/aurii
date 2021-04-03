@@ -7,13 +7,13 @@ chapter: awg-ch-3
 //motto
 
 
-Key Info          | 
-------------------|----------------------------------------------------------------------------------------------------------------------------
-Government Type:  | 
-Capital City:     | 
-Symbol:           | 
-Primary Religion: | 
-Hallmarks:        | 
+| Key Info          |     |
+| ----------------- | --- |
+| Government Type:  |     |
+| Capital City:     |     |
+| Symbol:           |     |
+| Primary Religion: |     |
+| Hallmarks:        |     |
 
 //location and climate
 
@@ -54,12 +54,12 @@ Hallmarks:        |
 
 ⭕🔴
 
-Unit             | Skill Level | Size
------------------|-------------|-----
-Infantry:        | ⭕⭕⭕⭕⭕ | 
-Cavalry:         | ⭕⭕⭕⭕⭕ | 
-Magic Forces:    | ⭕⭕⭕⭕⭕ | 
-Navy:            | ⭕⭕⭕⭕⭕ | 
+| Unit          | Skill Level | Size |
+| ------------- | ----------- | ---- |
+| Infantry:     | ⭕⭕⭕⭕⭕       |
+| Cavalry:      | ⭕⭕⭕⭕⭕       |
+| Magic Forces: | ⭕⭕⭕⭕⭕       |
+| Navy:         | ⭕⭕⭕⭕⭕       |
 
 //speciality units (add to table)
 

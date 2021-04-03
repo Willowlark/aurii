@@ -14,6 +14,8 @@ collections:
     output: true
   aurii_world_guide:
     output: true
+  joplin_exports:
+    output: true
 
 defaults:
   - scope:
